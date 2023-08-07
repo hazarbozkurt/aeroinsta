@@ -1,0 +1,242 @@
+{
+  "KEY1": {
+    "DevName": {
+      "en": "Option 1",
+      "pt": "Opção 1",
+      "es": "Opción 1",
+      "tr": "Seçenek 1"
+    },
+    "DevCode": {
+      "CodeName": "33020:",
+      "CodeOverrides": [
+        "0: : false",
+        "2",
+        "3",
+        "4"
+      ]
+    }
+  },
+  "KEY2": {
+    "DevName": {
+      "en": "Option 2",
+      "pt": "Opção 2",
+      "es": "Opción 2",
+      "tr": "Seçenek 2"
+    },
+    "DevCode": {
+      "CodeName": "6859:",
+      "CodeOverrides": [
+        "0: : true",
+        "2",
+        "3",
+        "4"
+      ]
+    }
+  },
+  "KEY3": {
+    "DevName": {
+      "en": "Option 3",
+      "pt": "Opção 3",
+      "es": "Opción 3",
+      "tr": "Seçenek 3"
+    },
+    "DevCode": {
+      "CodeName": "78867:",
+      "CodeOverrides": [
+        "10: : true",
+        "7: : EFEFE"
+      ]
+    }
+  },
+  "KEY4": {
+    "DevName": {
+      "en": "Option 4",
+      "pt": "Opção 4",
+      "es": "Opción 4",
+      "tr": "Seçenek 4"
+    },
+    "DevCode": {
+      "CodeName": "78867:",
+      "CodeOverrides": [
+        "10: : true",
+        "7: : EFEFE"
+      ]
+    }
+  },
+  "KEY5": {
+    "DevName": {
+      "en": "Option 5",
+      "pt": "Opção 5",
+      "es": "Opción 5",
+      "tr": "Seçenek 5"
+    },
+    "DevCode": {
+      "CodeName": "12345:",
+      "CodeOverrides": [
+        "5: : false",
+        "8",
+        "9"
+      ]
+    }
+  },
+  "KEY6": {
+    "DevName": {
+      "en": "Option 6",
+      "pt": "Opção 6",
+      "es": "Opción 6",
+      "tr": "Seçenek 6"
+    },
+    "DevCode": {
+      "CodeName": "67890:",
+      "CodeOverrides": [
+        "1: : true",
+        "4",
+        "7"
+      ]
+    }
+  },
+  "KEY7": {
+    "DevName": {
+      "en": "Option 7",
+      "pt": "Opção 7",
+      "es": "Opción 7",
+      "tr": "Seçenek 7"
+    },
+    "DevCode": {
+      "CodeName": "54321:",
+      "CodeOverrides": [
+        "0: : false",
+        "3",
+        "6"
+      ]
+    }
+  },
+  "KEY8": {
+    "DevName": {
+      "en": "Option 8",
+      "pt": "Opção 8",
+      "es": "Opción 8",
+      "tr": "Seçenek 8"
+    },
+    "DevCode": {
+      "CodeName": "98765:",
+      "CodeOverrides": [
+        "5: : true",
+        "9",
+        "11"
+      ]
+    }
+  },
+  "KEY9": {
+    "DevName": {
+      "en": "Option 9",
+      "pt": "Opção 9",
+      "es": "Opción 9",
+      "tr": "Seçenek 9"
+    },
+    "DevCode": {
+      "CodeName": "19283:",
+      "CodeOverrides": [
+        "2: : false",
+        "6",
+        "10"
+      ]
+    }
+  },
+  "KEY10": {
+    "DevName": {
+      "en": "Option 10",
+      "pt": "Opção 10",
+      "es": "Opción 10",
+      "tr": "Seçenek 10"
+    },
+    "DevCode": {
+      "CodeName": "38475:",
+      "CodeOverrides": [
+        "1: : true",
+        "5",
+        "8"
+      ]
+    }
+  },
+  "KEY11": {
+    "DevName": {
+      "en": "Option 11",
+      "pt": "Opção 11",
+      "es": "Opción 11",
+      "tr": "Seçenek 11"
+    },
+    "DevCode": {
+      "CodeName": "75920:",
+      "CodeOverrides": [
+        "3: : false",
+        "7",
+        "9"
+      ]
+    }
+  },
+  "KEY12": {
+    "DevName": {
+      "en": "Option 12",
+      "pt": "Opção 12",
+      "es": "Opción 12",
+      "tr": "Seçenek 12"
+    },
+    "DevCode": {
+      "CodeName": "27543:",
+      "CodeOverrides": [
+        "4: : true",
+        "6",
+        "10"
+      ]
+    }
+  },
+  "KEY13": {
+    "DevName": {
+      "en": "Option 13",
+      "pt": "Opção 13",
+      "es": "Opción 13",
+      "tr": "Seçenek 13"
+    },
+    "DevCode": {
+      "CodeName": "89012:",
+      "CodeOverrides": [
+        "0: : true",
+        "5",
+        "9"
+      ]
+    }
+  },
+  "KEY14": {
+    "DevName": {
+      "en": "Option 14",
+      "pt": "Opção 14",
+      "es": "Opción 14",
+      "tr": "Seçenek 14"
+    },
+    "DevCode": {
+      "CodeName": "32109:",
+      "CodeOverrides": [
+        "2: : false",
+        "6",
+        "8"
+      ]
+    }
+  },
+  "KEY15": {
+    "DevName": {
+      "en": "Option 15",
+      "pt": "Opção 15",
+      "es": "Opción 15",
+      "tr": "Seçenek 15"
+    },
+    "DevCode": {
+      "CodeName": "11111:",
+      "CodeOverrides": [
+        "1: : true",
+        "4",
+        "7"
+      ]
+    }
+  }
+}
