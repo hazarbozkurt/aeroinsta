@@ -2,18 +2,15 @@
   "AERODEVS": {
     "KEY1": {
       "DevName": {
-        "en": "Option 1",
-        "pt": "Opção 1",
-        "es": "Opción 1",
-        "tr": "Seçenek 1"
+        "en": "is_employee mode",
+        "pt": "is_employee mod",
+        "es": "is_employee mod",
+        "tr": "is_employee mod"
       },
       "DevCode": {
-        "CodeName": "33020:",
+        "CodeName": "56474:",
         "CodeOverrides": [
-          "0: : false",
-          "2",
-          "3",
-          "4"
+          "0: : true"
         ]
       }
     },
