@@ -33,10 +33,10 @@
     },
     "KEY3": {
       "DevName": {
-        "en": "Option 3",
-        "pt": "Opção 3",
-        "es": "Opción 3",
-        "tr": "Seçenek 3"
+        "en": "Option 3 (Critical)",
+        "pt": "Opção 3 (Crítico)",
+        "es": "Opción 3 (Crítico)",
+        "tr": "Seçenek 3 (Kritik)"
       },
       "DevCode": {
         "CodeName": "78867:",
