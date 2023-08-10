@@ -16,7 +16,8 @@
       "DevDetail": {
         "bold": true,
         "italic": false,
-        "strikethrough": false
+        "strikethrough": false,
+        "crtcl": true
       }
     },
     "KEY2": {
