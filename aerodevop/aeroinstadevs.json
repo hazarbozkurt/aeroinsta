@@ -14,7 +14,7 @@
         ]
       },
       "DevDetail": {
-        "bold": false,
+        "bold": true,
         "italic": false,
         "strikethrough": false
       }
@@ -36,7 +36,7 @@
       },
       "DevDetail": {
         "bold": false,
-        "italic": false,
+        "italic": true,
         "strikethrough": false
       }
     },
@@ -56,7 +56,7 @@
       "DevDetail": {
         "bold": false,
         "italic": false,
-        "strikethrough": false
+        "strikethrough": true
       }
     },
     "KEY4": {
@@ -73,8 +73,8 @@
         ]
       },
       "DevDetail": {
-        "bold": false,
-        "italic": false,
+        "bold": true,
+        "italic": true,
         "strikethrough": false
       }
     }
