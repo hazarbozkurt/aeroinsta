@@ -38,7 +38,8 @@
       "DevDetail": {
         "bold": false,
         "italic": true,
-        "strikethrough": false
+        "strikethrough": false,
+        "crtcl": false
       }
     },
     "KEY3": {
@@ -57,7 +58,8 @@
       "DevDetail": {
         "bold": false,
         "italic": false,
-        "strikethrough": true
+        "strikethrough": true,
+        "crtcl": false
       }
     },
     "KEY4": {
@@ -76,7 +78,8 @@
       "DevDetail": {
         "bold": true,
         "italic": true,
-        "strikethrough": false
+        "strikethrough": false,
+        "crtcl": true
       }
     }
   },
