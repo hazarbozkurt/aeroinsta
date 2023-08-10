@@ -43,6 +43,20 @@
                "0: : true"
             ]
          }
+      },
+      "KEY4": {
+         "DevName": {
+            "en": "Prevent emojis from being sent in the comments with a single tap.",
+            "pt": "Impedir emojis de serem enviados nos comentários com um único toque.",
+            "es": "Evita que los emojis se envíen en los comentarios con un solo toque.",
+            "tr": "Yorumlarda emojilerin tek bir dokunuşla gönderilmesini devre dışı bırak."
+         },
+         "DevCode": {
+            "CodeName": "56046:",
+            "CodeOverrides": [
+               "18: : false"
+            ]
+         }
       }
    },
    "AeroOthers": {
