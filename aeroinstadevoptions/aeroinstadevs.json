@@ -87,11 +87,11 @@
         ]
       },
       "DevDetail": {
-        "bold": true,
+        "bold": false,
         "italic": false,
         "strikethrough": false,
         "crtcl": false,
-        "disabled": true,
+        "disabled": false,
         "DisabledDevs": [
           "KEY3"
         ]
