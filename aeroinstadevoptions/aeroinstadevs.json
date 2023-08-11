@@ -46,7 +46,9 @@
         "strikethrough": false,
         "crtcl": true,
         "disabled": false,
-        "DisabledDevs": []
+        "DisabledDevs": [
+          "KEY1"
+        ]
       }
     },
     "KEY3": {
