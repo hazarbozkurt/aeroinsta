@@ -91,7 +91,7 @@
         "italic": true,
         "strikethrough": false,
         "crtcl": false,
-        "disabled": false,
+        "disabled": true,
         "DisabledDevs": [
           "KEY3"
         ]
