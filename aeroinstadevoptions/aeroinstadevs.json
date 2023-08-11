@@ -21,10 +21,7 @@
         "strikethrough": false,
         "crtcl": false,
         "disabled": false,
-        "DisabledDevs": [
-          "KEY2",
-          "KEY3"
-        ]
+        "DisabledDevs": []
       }
     },
     "KEY2": {
@@ -46,9 +43,7 @@
         "strikethrough": false,
         "crtcl": true,
         "disabled": false,
-        "DisabledDevs": [
-          "KEY1"
-        ]
+        "DisabledDevs": []
       }
     },
     "KEY3": {
@@ -73,11 +68,36 @@
         "crtcl": false,
         "disabled": false,
         "DisabledDevs": [
-          "KEY1"
+          "KEY4"
         ]
       }
     },
-    "KEY4": {
+	"KEY4": {
+      "DevName": {
+        "en": "Place the 'heart' icon in the bottom right corner, the 'Reels' icon in the bottom center",
+        "pt": "Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior.",
+        "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior.",
+        "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze yerleştir."
+      },
+      "DevCode": {
+        "CodeName": "47131:",
+        "CodeOverrides": [
+          "3: : news",
+          "2: : clips"
+        ]
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": true,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "DisabledDevs": [
+          "KEY3"
+        ]
+      }
+    },
+    "KEY5": {
       "DevName": {
         "en": "Enable the ability to break to a new line while typing comments.",
         "pt": "Habilite a capacidade de quebrar para uma nova linha ao digitar comentários.",
@@ -99,7 +119,7 @@
         "DisabledDevs": []
       }
     },
-    "KEY5": {
+    "KEY6": {
       "DevName": {
         "en": "Prevent emojis from being sent in the comments with a single tap.",
         "pt": "Impedir emojis de serem enviados nos comentários com um único toque.",
@@ -118,9 +138,7 @@
         "strikethrough": false,
         "crtcl": true,
         "disabled": true,
-        "DisabledDevs": [
-          "KEY1"
-        ]
+        "DisabledDevs": []
       }
     }
   },
