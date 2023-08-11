@@ -38,10 +38,10 @@
         ]
       },
       "DevDetail": {
-        "bold": true,
+        "bold": false,
         "italic": false,
         "strikethrough": false,
-        "crtcl": true,
+        "crtcl": false,
         "disabled": false,
         "DisabledDevs": []
       }
@@ -63,7 +63,7 @@
       },
       "DevDetail": {
         "bold": false,
-        "italic": true,
+        "italic": false,
         "strikethrough": false,
         "crtcl": false,
         "disabled": false,
@@ -87,8 +87,8 @@
         ]
       },
       "DevDetail": {
-        "bold": false,
-        "italic": true,
+        "bold": true,
+        "italic": false,
         "strikethrough": false,
         "crtcl": false,
         "disabled": true,
@@ -113,7 +113,7 @@
       "DevDetail": {
         "bold": false,
         "italic": false,
-        "strikethrough": true,
+        "strikethrough": false,
         "crtcl": false,
         "disabled": false,
         "DisabledDevs": []
@@ -133,10 +133,10 @@
         ]
       },
       "DevDetail": {
-        "bold": true,
-        "italic": true,
+        "bold": false,
+        "italic": false,
         "strikethrough": false,
-        "crtcl": true,
+        "crtcl": false,
         "disabled": true,
         "DisabledDevs": []
       }
