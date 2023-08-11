@@ -19,8 +19,8 @@
         "bold": false,
         "italic": false,
         "strikethrough": false,
-        "crtcl": true,
-        "disabled": true,
+        "crtcl": false,
+        "disabled": false,
         "DisabledDevs": [
           "KEY2",
           "KEY3"
@@ -115,7 +115,7 @@
         "italic": true,
         "strikethrough": false,
         "crtcl": true,
-        "disabled": false,
+        "disabled": true,
         "DisabledDevs": [
           "KEY1"
         ]
