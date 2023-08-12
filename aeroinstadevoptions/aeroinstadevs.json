@@ -159,7 +159,8 @@
     "aerover": "369210522",
     "betadev": {
         "betakey": false,
-        "betaurl": "https://aeroinsta.com/files/aeroinstadev.json"
+        "betaurl": "https://aeroinsta.com/files/aeroinstadev.json",
+        "betaver": "369210522"
       }
   }
 }
