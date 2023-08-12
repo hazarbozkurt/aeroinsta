@@ -135,7 +135,7 @@
       "DevDetail": {
         "bold": false,
         "italic": false,
-        "strikethrough": false,
+        "strikethrough": true,
         "crtcl": false,
         "disabled": true,
         "DisabledDevs": []
