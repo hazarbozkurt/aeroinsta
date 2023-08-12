@@ -9,7 +9,6 @@
       },
       "DevCode": {
         "CodeName": "55196:",
-        "CodeNux": "AeroNUX1",
         "CodeOverrides": [
           "10: : true",
           "9: : true",
@@ -20,7 +19,7 @@
         "bold": false,
         "italic": false,
         "strikethrough": false,
-        "crtcl": false,
+        "crtcl": true,
         "disabled": false,
         "rcmnd": true,
         "DisabledDevs": []
@@ -35,7 +34,6 @@
       },
       "DevCode": {
         "CodeName": "56474:",
-        "CodeNux": "AeroNUX2",
         "CodeOverrides": [
           "0: : true"
         ]
@@ -59,7 +57,6 @@
       },
       "DevCode": {
         "CodeName": "47131:",
-        "CodeNux": "AeroNUX3",
         "CodeOverrides": [
           "8: : share",
           "3: : news",
@@ -87,7 +84,6 @@
       },
       "DevCode": {
         "CodeName": "47131:",
-        "CodeNux": "AeroNUX4",
         "CodeOverrides": [
           "3: : news",
           "2: : clips"
@@ -114,7 +110,6 @@
       },
       "DevCode": {
         "CodeName": "59926:",
-        "CodeNux": "AeroNUX5",
         "CodeOverrides": [
           "0: : true"
         ]
@@ -138,7 +133,6 @@
       },
       "DevCode": {
         "CodeName": "56046:",
-        "CodeNux": "AeroNUX6",
         "CodeOverrides": [
           "18: : false"
         ]
