@@ -22,7 +22,7 @@
         "strikethrough": false,
         "crtcl": false,
         "disabled": false,
-        "enabled": false,
+        "enabled": true,
         "DisabledDevs": []
       }
     },
