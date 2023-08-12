@@ -138,11 +138,11 @@
         ]
       },
       "DevDetail": {
-        "bold": false,
+        "bold": true,
         "italic": false,
         "strikethrough": true,
         "crtcl": false,
-        "disabled": true,
+        "disabled": false,
         "rcmnd": false,
         "DisabledDevs": []
       }
@@ -152,7 +152,7 @@
     "last": "08/11/2023",
     "aerover": "369210522",
     "betadev": {
-        "betakey": true,
+        "betakey": false,
         "betaver": "369210522"
       }
   }
