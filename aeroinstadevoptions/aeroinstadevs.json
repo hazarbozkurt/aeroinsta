@@ -21,7 +21,7 @@
         "strikethrough": false,
         "crtcl": true,
         "disabled": false,
-        "rcmnd": true,
+        "rcmnd": false,
         "DisabledDevs": []
       }
     },
@@ -138,9 +138,9 @@
         ]
       },
       "DevDetail": {
-        "bold": true,
+        "bold": false,
         "italic": false,
-        "strikethrough": true,
+        "strikethrough": false,
         "crtcl": false,
         "disabled": false,
         "rcmnd": false,
