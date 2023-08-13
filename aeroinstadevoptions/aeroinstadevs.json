@@ -146,14 +146,129 @@
         "rcmnd": false,
         "DisabledDevs": []
       }
+    },
+    "KEY7": {
+      "DevName": {
+        "en": "Fix AD Blocker 1",
+        "pt": "Corrigir Bloqueador de Anúncios 1",
+        "es": "Arreglar Bloqueador de Anuncios 1",
+        "tr": "Reklam Engelleyiciyi Düzelt 1"
+      },
+      "DevCode": {
+        "CodeName": "42927:",
+        "CodeOverrides": [
+          "0: : false"
+        ]
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
+        "DisabledDevs": []
+      }
+    },
+    "KEY8": {
+      "DevName": {
+        "en": "Fix AD Blocker 2",
+        "pt": "Corrigir Bloqueador de Anúncios 2",
+        "es": "Arreglar Bloqueador de Anuncios 2",
+        "tr": "Reklam Engelleyiciyi Düzelt 2"
+      },
+      "DevCode": {
+        "CodeName": "48777:",
+        "CodeOverrides": [
+          "0: : disabled"
+        ]
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
+        "DisabledDevs": []
+      }
+    },
+    "KEY9": {
+      "DevName": {
+        "en": "Fix AD Blocker 3",
+        "pt": "Corrigir Bloqueador de Anúncios 3",
+        "es": "Arreglar Bloqueador de Anuncios 3",
+        "tr": "Reklam Engelleyiciyi Düzelt 3"
+      },
+      "DevCode": {
+        "CodeName": "29475:",
+        "CodeOverrides": [
+          "0: : false"
+        ]
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
+        "DisabledDevs": []
+      }
+    },
+    "KEY10": {
+      "DevName": {
+        "en": "Fix AD Blocker 4",
+        "pt": "Corrigir Bloqueador de Anúncios 4",
+        "es": "Arreglar Bloqueador de Anuncios 4",
+        "tr": "Reklam Engelleyiciyi Düzelt 4"
+      },
+      "DevCode": {
+        "CodeName": "53887:",
+        "CodeOverrides": [
+          "0: : false"
+        ]
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
+        "DisabledDevs": []
+      }
+    },
+    "KEY11": {
+      "DevName": {
+        "en": "Fix AD Blocker 5",
+        "pt": "Corrigir Bloqueador de Anúncios 5",
+        "es": "Arreglar Bloqueador de Anuncios 5",
+        "tr": "Reklam Engelleyiciyi Düzelt 5"
+      },
+      "DevCode": {
+        "CodeName": "33020:",
+        "CodeOverrides": [
+          "11: : true"
+        ]
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
+        "DisabledDevs": []
+      }
     }
   },
   "AeroOthers": {
     "last": "08/11/2023",
     "aerover": "369210522",
     "betadev": {
-        "betakey": false,
-        "betaver": "369210522"
-      }
+      "betakey": true,
+      "betaver": "369210522"
+    }
   }
 }
