@@ -161,10 +161,10 @@
     },
     "KEY7": {
       "DevName": {
-        "en": "Fix AD Blocker 1",
-        "pt": "Corrigir Bloqueador de Anúncios 1",
-        "es": "Arreglar Bloqueador de Anuncios 1",
-        "tr": "Reklam Engelleyiciyi Düzelt 1"
+        "en": "Fix AD Blocker",
+        "pt": "Corrigir Bloqueador de Anúncios",
+        "es": "Arreglar Bloqueador de Anuncios",
+        "tr": "Reklam Engelleyiciyi Düzelt"
       },
       "DevCodes": {
         "DevCode1": {
