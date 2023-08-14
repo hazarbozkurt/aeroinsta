@@ -7,13 +7,15 @@
         "es": "Habilita la función de avance rápido y retroceso para los videos de Reels.",
         "tr": "Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir."
       },
-      "DevCode": {
-        "CodeName": "55196:",
-        "CodeOverrides": [
-          "10: : true",
-          "9: : true",
-          "12: : true"
-        ]
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "55196:",
+          "CodeOverrides": [
+            "10: : true",
+            "9: : true",
+            "12: : true"
+          ]
+        }
       },
       "DevDetail": {
         "bold": false,
@@ -32,11 +34,13 @@
         "es": "Activa el modo interno/de empleado (is_employee).",
         "tr": "Dahili/Çalışan modunu etkinleştirir (is_employee)."
       },
-      "DevCode": {
-        "CodeName": "56474:",
-        "CodeOverrides": [
-          "0: : true"
-        ]
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "56474:",
+          "CodeOverrides": [
+            "0: : true"
+          ]
+        }
       },
       "DevDetail": {
         "bold": false,
@@ -55,13 +59,15 @@
         "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior y el ícono de 'Compartir' en la esquina superior derecha.",
         "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze ve 'Paylaş' simgesini sağ üst köşeye yerleştir."
       },
-      "DevCode": {
-        "CodeName": "47131:",
-        "CodeOverrides": [
-          "8: : share",
-          "3: : news",
-          "2: : clips"
-        ]
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "47131:",
+          "CodeOverrides": [
+            "8: : share",
+            "3: : news",
+            "2: : clips"
+          ]
+        }
       },
       "DevDetail": {
         "bold": false,
@@ -82,12 +88,14 @@
         "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior.",
         "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze yerleştir."
       },
-      "DevCode": {
-        "CodeName": "47131:",
-        "CodeOverrides": [
-          "3: : news",
-          "2: : clips"
-        ]
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "47131:",
+          "CodeOverrides": [
+            "3: : news",
+            "2: : clips"
+          ]
+        }
       },
       "DevDetail": {
         "bold": false,
@@ -108,11 +116,13 @@
         "es": "Habilite la capacidad de saltar a una nueva línea mientras escribe comentarios.",
         "tr": "Yorum yazarken yeni bir satıra geçme yeteneğini etkinleştir."
       },
-      "DevCode": {
+      "DevCodes": {
+        "DevCode1": {
         "CodeName": "59926:",
         "CodeOverrides": [
           "0: : true"
         ]
+		}
       },
       "DevDetail": {
         "bold": false,
@@ -131,11 +141,13 @@
         "es": "Evita que los emojis se envíen en los comentarios con un solo toque.",
         "tr": "Yorumlarda emojilerin tek bir dokunuşla gönderilmesini devre dışı bırak."
       },
-      "DevCode": {
-        "CodeName": "56046:",
-        "CodeOverrides": [
-          "18: : false"
-        ]
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "56046:",
+          "CodeOverrides": [
+            "18: : false"
+          ]
+        }
       },
       "DevDetail": {
         "bold": false,
@@ -154,103 +166,37 @@
         "es": "Arreglar Bloqueador de Anuncios 1",
         "tr": "Reklam Engelleyiciyi Düzelt 1"
       },
-      "DevCode": {
-        "CodeName": "42927:",
-        "CodeOverrides": [
-          "0: : false"
-        ]
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": true,
-        "DisabledDevs": []
-      }
-    },
-    "KEY8": {
-      "DevName": {
-        "en": "Fix AD Blocker 2",
-        "pt": "Corrigir Bloqueador de Anúncios 2",
-        "es": "Arreglar Bloqueador de Anuncios 2",
-        "tr": "Reklam Engelleyiciyi Düzelt 2"
-      },
-      "DevCode": {
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "42927:",
+          "CodeOverrides": [
+            "0: : false"
+          ]
+        },
+		"DevCode2": {
         "CodeName": "48777:",
         "CodeOverrides": [
           "0: : disabled"
         ]
       },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": true,
-        "DisabledDevs": []
-      }
-    },
-    "KEY9": {
-      "DevName": {
-        "en": "Fix AD Blocker 3",
-        "pt": "Corrigir Bloqueador de Anúncios 3",
-        "es": "Arreglar Bloqueador de Anuncios 3",
-        "tr": "Reklam Engelleyiciyi Düzelt 3"
-      },
-      "DevCode": {
+	  "DevCode3": {
         "CodeName": "29475:",
         "CodeOverrides": [
           "0: : false"
         ]
       },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": true,
-        "DisabledDevs": []
-      }
-    },
-    "KEY10": {
-      "DevName": {
-        "en": "Fix AD Blocker 4",
-        "pt": "Corrigir Bloqueador de Anúncios 4",
-        "es": "Arreglar Bloqueador de Anuncios 4",
-        "tr": "Reklam Engelleyiciyi Düzelt 4"
-      },
-      "DevCode": {
+	  "DevCode4": {
         "CodeName": "53887:",
         "CodeOverrides": [
           "0: : false"
         ]
       },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": true,
-        "DisabledDevs": []
-      }
-    },
-    "KEY11": {
-      "DevName": {
-        "en": "Fix AD Blocker 5",
-        "pt": "Corrigir Bloqueador de Anúncios 5",
-        "es": "Arreglar Bloqueador de Anuncios 5",
-        "tr": "Reklam Engelleyiciyi Düzelt 5"
-      },
-      "DevCode": {
+	  "DevCode5": {
         "CodeName": "33020:",
         "CodeOverrides": [
           "11: : true"
         ]
+      }
       },
       "DevDetail": {
         "bold": false,
