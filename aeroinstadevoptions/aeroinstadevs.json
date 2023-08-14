@@ -203,7 +203,7 @@
         "italic": false,
         "strikethrough": false,
         "crtcl": false,
-        "disabled": false,
+        "disabled": true,
         "rcmnd": true,
         "DisabledDevs": []
       }
