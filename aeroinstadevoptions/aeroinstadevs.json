@@ -1,309 +1,303 @@
 {
-   "AERODEVS":{
-      "KEY1":{
-         "DevName":{
-            "en":"Enable the fast forward and rewind feature for the Reels videos.",
-            "pt":"Ative a função de avanço rápido e retrocesso para os vídeos Reels.",
-            "es":"Habilita la función de avance rápido y retroceso para los videos de Reels.",
-            "tr":"Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir."
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"55196:",
-               "CodeOverrides":[
-                  "10: : true",
-                  "9: : true",
-                  "12: : true"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":true,
-            "disabled":false,
-            "rcmnd":false,
-            "DisabledDevs":[
-               "KEY2"
-            ]
-         }
+  "AERODEVS": {
+    "KEY1": {
+      "DevName": {
+        "en": "Enable the fast forward and rewind feature for the Reels videos.",
+        "pt": "Ative a função de avanço rápido e retrocesso para os vídeos Reels.",
+        "es": "Habilita la función de avance rápido y retroceso para los videos de Reels.",
+        "tr": "Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir."
       },
-      "KEY2":{
-         "DevName":{
-            "en":"Enable the fast forward and rewind feature for the Reels videos (with time seekbar)",
-            "pt":"Ative a função de avanço rápido e retrocesso para os vídeos Reels (com barra de busca de tempo)",
-            "es":"Habilita la función de avance rápido y retroceso para los videos de Reels (con barra de búsqueda de tiempo)",
-            "tr":"Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir (zaman çubuğu ile)"
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"37418:",
-               "CodeOverrides":[
-                  "47: : true",
-                  "27: : true",
-                  "60: : 1"
-               ]
-            },
-            "DevCode2":{
-               "CodeName":"51484:",
-               "CodeOverrides":[
-                  "0: : true"
-               ]
-            },
-            "DevCode3":{
-               "CodeName":"55196:",
-               "CodeOverrides":[
-                  "12: : true",
-                  "9: : false",
-                  "8: : true",
-                  "7: : true",
-                  "3: : true",
-                  "2: : true",
-                  "1: : true",
-                  "6: : true",
-                  "0: : true",
-                  "4: : true",
-                  "5: : 0",
-                  "11: : 0"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":true,
-            "DisabledDevs":[
-               "KEY1"
-            ]
-         }
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "55196:",
+          "CodeOverrides": [
+            "10: : true",
+            "9: : true",
+            "12: : true"
+          ]
+        }
       },
-      "KEY3":{
-         "DevName":{
-            "en":"Activates the internal/employee mode (is_employee).",
-            "pt":"Ativa o modo interno/de funcionário (is_employee).",
-            "es":"Activa el modo interno/de empleado (is_employee).",
-            "tr":"Dahili/Çalışan modunu etkinleştirir (is_employee)."
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"56474:",
-               "CodeOverrides":[
-                  "0: : true"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":false,
-            "DisabledDevs":[
-               
-            ]
-         }
-      },
-      "KEY4":{
-         "DevName":{
-            "en":"Place the 'heart' icon in the bottom right corner, the 'Reels' icon in the bottom center, and the 'Share' icon in the top right corner.",
-            "pt":"Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior e o ícone 'Compartilhar' no canto superior direito.",
-            "es":"Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior y el ícono de 'Compartir' en la esquina superior derecha.",
-            "tr":"'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze ve 'Paylaş' simgesini sağ üst köşeye yerleştir."
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"47131:",
-               "CodeOverrides":[
-                  "8: : share",
-                  "3: : news",
-                  "2: : clips"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":false,
-            "DisabledDevs":[
-               "KEY5"
-            ]
-         }
-      },
-      "KEY5":{
-         "DevName":{
-            "en":"Place the 'heart' icon in the bottom right corner, the 'Reels' icon in the bottom center",
-            "pt":"Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior.",
-            "es":"Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior.",
-            "tr":"'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze yerleştir."
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"47131:",
-               "CodeOverrides":[
-                  "3: : news",
-                  "2: : clips"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":false,
-            "DisabledDevs":[
-               "KEY4"
-            ]
-         }
-      },
-      "KEY6":{
-         "DevName":{
-            "en":"Enable the ability to break to a new line while typing comments.",
-            "pt":"Habilite a capacidade de quebrar para uma nova linha ao digitar comentários.",
-            "es":"Habilite la capacidad de saltar a una nueva línea mientras escribe comentarios.",
-            "tr":"Yorum yazarken yeni bir satıra geçme yeteneğini etkinleştir."
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"59926:",
-               "CodeOverrides":[
-                  "0: : true"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":false,
-            "DisabledDevs":[
-               
-            ]
-         }
-      },
-      "KEY7":{
-         "DevName":{
-            "en":"Prevent emojis from being sent in the comments with a single tap.",
-            "pt":"Impedir emojis de serem enviados nos comentários com um único toque.",
-            "es":"Evita que los emojis se envíen en los comentarios con un solo toque.",
-            "tr":"Yorumlarda emojilerin tek bir dokunuşla gönderilmesini devre dışı bırak."
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"56046:",
-               "CodeOverrides":[
-                  "18: : false"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":false,
-            "DisabledDevs":[
-               
-            ]
-         }
-      },
-	  "KEY8":{
-         "DevName":{
-            "en":"Remove the emoji bar in the comments",
-            "pt":"Remova a barra de emojis nos comentários",
-            "es":"Elimine la barra de emojis en los comentarios",
-            "tr":"Yorumlardaki emoji çubuğunu kaldırın."
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"56046:",
-               "CodeOverrides":[
-                  "3: : true"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":false,
-            "DisabledDevs":[
-               
-            ]
-         }
-      },
-      "KEY9":{
-         "DevName":{
-            "en":"Fix AD Blocker",
-            "pt":"Corrigir Bloqueador de Anúncios",
-            "es":"Arreglar Bloqueador de Anuncios",
-            "tr":"Reklam Engelleyiciyi Düzelt"
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"42927:",
-               "CodeOverrides":[
-                  "0: : false"
-               ]
-            },
-            "DevCode2":{
-               "CodeName":"48777:",
-               "CodeOverrides":[
-                  "0: : disabled"
-               ]
-            },
-            "DevCode3":{
-               "CodeName":"29475:",
-               "CodeOverrides":[
-                  "0: : false"
-               ]
-            },
-            "DevCode4":{
-               "CodeName":"53887:",
-               "CodeOverrides":[
-                  "0: : false"
-               ]
-            },
-            "DevCode5":{
-               "CodeName":"33020:",
-               "CodeOverrides":[
-                  "11: : true"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":true,
-            "DisabledDevs":[
-               
-            ]
-         }
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": true,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": [
+          "KEY2"
+        ]
       }
-   },
-   "AeroOthers":{
-      "last":"08/11/2023",
-      "aerover":"369210522",
-      "betadev":{
-         "betakey":true,
-         "betaver":"369210522"
+    },
+    "KEY2": {
+      "DevName": {
+        "en": "Enable the fast forward and rewind feature for the Reels videos (with time seekbar)",
+        "pt": "Ative a função de avanço rápido e retrocesso para os vídeos Reels (com barra de busca de tempo)",
+        "es": "Habilita la función de avance rápido y retroceso para los videos de Reels (con barra de búsqueda de tiempo)",
+        "tr": "Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir (zaman çubuğu ile)"
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "37418:",
+          "CodeOverrides": [
+            "47: : true",
+            "27: : true",
+            "60: : 1"
+          ]
+        },
+        "DevCode2": {
+          "CodeName": "51484:",
+          "CodeOverrides": [
+            "0: : true"
+          ]
+        },
+        "DevCode3": {
+          "CodeName": "55196:",
+          "CodeOverrides": [
+            "12: : true",
+            "9: : false",
+            "8: : true",
+            "7: : true",
+            "3: : true",
+            "2: : true",
+            "1: : true",
+            "6: : true",
+            "0: : true",
+            "4: : true",
+            "5: : 0",
+            "11: : 0"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
+        "DisabledDevs": [
+          "KEY1"
+        ]
       }
-   }
+    },
+    "KEY3": {
+      "DevName": {
+        "en": "Activates the internal/employee mode (is_employee).",
+        "pt": "Ativa o modo interno/de funcionário (is_employee).",
+        "es": "Activa el modo interno/de empleado (is_employee).",
+        "tr": "Dahili/Çalışan modunu etkinleştirir (is_employee)."
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "56474:",
+          "CodeOverrides": [
+            "0: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": []
+      }
+    },
+    "KEY4": {
+      "DevName": {
+        "en": "Place the 'heart' icon in the bottom right corner, the 'Reels' icon in the bottom center, and the 'Share' icon in the top right corner.",
+        "pt": "Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior e o ícone 'Compartilhar' no canto superior direito.",
+        "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior y el ícono de 'Compartir' en la esquina superior derecha.",
+        "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze ve 'Paylaş' simgesini sağ üst köşeye yerleştir."
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "47131:",
+          "CodeOverrides": [
+            "8: : share",
+            "3: : news",
+            "2: : clips"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": [
+          "KEY5"
+        ]
+      }
+    },
+    "KEY5": {
+      "DevName": {
+        "en": "Place the 'heart' icon in the bottom right corner, the 'Reels' icon in the bottom center",
+        "pt": "Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior.",
+        "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior.",
+        "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze yerleştir."
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "47131:",
+          "CodeOverrides": [
+            "3: : news",
+            "2: : clips"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": [
+          "KEY4"
+        ]
+      }
+    },
+    "KEY6": {
+      "DevName": {
+        "en": "Enable the ability to break to a new line while typing comments.",
+        "pt": "Habilite a capacidade de quebrar para uma nova linha ao digitar comentários.",
+        "es": "Habilite la capacidad de saltar a una nueva línea mientras escribe comentarios.",
+        "tr": "Yorum yazarken yeni bir satıra geçme yeteneğini etkinleştir."
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "59926:",
+          "CodeOverrides": [
+            "0: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": []
+      }
+    },
+    "KEY7": {
+      "DevName": {
+        "en": "Prevent emojis from being sent in the comments with a single tap.",
+        "pt": "Impedir emojis de serem enviados nos comentários com um único toque.",
+        "es": "Evita que los emojis se envíen en los comentarios con un solo toque.",
+        "tr": "Yorumlarda emojilerin tek bir dokunuşla gönderilmesini devre dışı bırak."
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "56046:",
+          "CodeOverrides": [
+            "18: : false"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": [
+          "KEY8"
+        ]
+      }
+    },
+    "KEY8": {
+      "DevName": {
+        "en": "Remove the emoji bar in the comments",
+        "pt": "Remova a barra de emojis nos comentários",
+        "es": "Elimine la barra de emojis en los comentarios",
+        "tr": "Yorumlardaki emoji çubuğunu kaldırın."
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "56046:",
+          "CodeOverrides": [
+            "3: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": [
+          "KEY7"
+        ]
+      }
+    },
+    "KEY9": {
+      "DevName": {
+        "en": "Fix AD Blocker",
+        "pt": "Corrigir Bloqueador de Anúncios",
+        "es": "Arreglar Bloqueador de Anuncios",
+        "tr": "Reklam Engelleyiciyi Düzelt"
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "42927:",
+          "CodeOverrides": [
+            "0: : false"
+          ]
+        },
+        "DevCode2": {
+          "CodeName": "48777:",
+          "CodeOverrides": [
+            "0: : disabled"
+          ]
+        },
+        "DevCode3": {
+          "CodeName": "29475:",
+          "CodeOverrides": [
+            "0: : false"
+          ]
+        },
+        "DevCode4": {
+          "CodeName": "53887:",
+          "CodeOverrides": [
+            "0: : false"
+          ]
+        },
+        "DevCode5": {
+          "CodeName": "33020:",
+          "CodeOverrides": [
+            "11: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
+        "DisabledDevs": []
+      }
+    }
+  },
+  "AeroOthers": {
+    "last": "08/11/2023",
+    "aerover": "369210522",
+    "betadev": {
+      "betakey": true,
+      "betaver": "369210522"
+    }
+  }
 }
