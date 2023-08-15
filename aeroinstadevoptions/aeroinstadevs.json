@@ -219,7 +219,34 @@
             ]
          }
       },
-      "KEY8":{
+	  "KEY8":{
+         "DevName":{
+            "en":"Remove the emoji bar in the comments",
+            "pt":"Remova a barra de emojis nos comentários",
+            "es":"Elimine la barra de emojis en los comentarios",
+            "tr":"Yorumlardaki emoji çubuğunu kaldırın."
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"56046:",
+               "CodeOverrides":[
+                  "3: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY9":{
          "DevName":{
             "en":"Fix AD Blocker",
             "pt":"Corrigir Bloqueador de Anúncios",
