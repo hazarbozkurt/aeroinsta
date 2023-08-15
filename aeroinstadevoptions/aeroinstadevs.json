@@ -25,7 +25,7 @@
             "disabled":false,
             "rcmnd":false,
             "DisabledDevs":[
-               
+               "KEY2"
             ]
          }
       },
@@ -77,7 +77,7 @@
             "disabled":false,
             "rcmnd":true,
             "DisabledDevs":[
-               
+               "KEY1"
             ]
          }
       },
@@ -133,7 +133,7 @@
             "disabled":false,
             "rcmnd":false,
             "DisabledDevs":[
-               "KEY4"
+               "KEY5"
             ]
          }
       },
@@ -161,7 +161,7 @@
             "disabled":false,
             "rcmnd":false,
             "DisabledDevs":[
-               "KEY3"
+               "KEY4"
             ]
          }
       },
