@@ -1,1 +1,1 @@
-It is a blue tick (verified badge) list for AeroInsta users. It is free.
+This project contains the necessary content for some functions of AeroInsta.
