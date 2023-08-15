@@ -83,7 +83,7 @@
     },
     "KEY3": {
       "DevName": {
-        "en": "Activates the internal/employee mode (is_employee).",
+        "en": "Enable the internal/employee mode (is_employee).",
         "pt": "Ativa o modo interno/de funcionário (is_employee).",
         "es": "Activa el modo interno/de empleado (is_employee).",
         "tr": "Dahili/Çalışan modunu etkinleştirir (is_employee)."
@@ -220,7 +220,7 @@
         "en": "Remove the emoji bar in the comments",
         "pt": "Remova a barra de emojis nos comentários",
         "es": "Elimine la barra de emojis en los comentarios",
-        "tr": "Yorumlardaki emoji çubuğunu kaldırın."
+        "tr": "Yorumlardaki emoji çubuğunu kaldır"
       },
       "DevCodes": {
         "DevCode1": {
