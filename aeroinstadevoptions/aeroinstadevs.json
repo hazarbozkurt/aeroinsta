@@ -296,7 +296,7 @@
     "last": "08/11/2023",
     "aerover": "369210522",
     "betadev": {
-      "betakey": false,
+      "betakey": true,
       "betaver": "369210522"
     }
   }
