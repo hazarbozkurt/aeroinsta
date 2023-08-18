@@ -1,4 +1,62 @@
 {
+  "AeroTabs": {
+    "AeroTab1": {
+      "AeroTabName": {
+        "en": "Posts",
+        "pt": "Publicações",
+        "es": "Publicaciones",
+        "tr": "Gönderiler"
+      },
+      "AeroTabKeys": [
+        "KEY6",
+        "KEY7",
+        "KEY8"
+      ]
+    },
+    "AeroTab2": {
+      "AeroTabName": {
+        "en": "Reels"
+      },
+      "AeroTabKeys": [
+        "KEY1",
+        "KEY2"
+      ]
+    },
+    "AeroTab3": {
+      "AeroTabName": {
+        "en": "Home Screen",
+        "pt": "Tela Inicial",
+        "es": "Pantalla de Inicio",
+        "tr": "Ana Ekran"
+      },
+      "AeroTabKeys": [
+        "KEY4",
+        "KEY5"
+      ]
+    },
+    "AeroTab4": {
+      "AeroTabName": {
+        "en": "Fixes",
+        "pt": "Correções",
+        "es": "Correcciones",
+        "tr": "Düzeltmeler"
+      },
+      "AeroTabKeys": [
+        "KEY9"
+      ]
+    },
+    "AeroTab5": {
+      "AeroTabName": {
+        "en": "General",
+        "pt": "Geral",
+        "es": "General",
+        "tr": "Genel"
+      },
+      "AeroTabKeys": [
+        "KEY3"
+      ]
+    }
+  },
   "AERODEVS": {
     "KEY1": {
       "DevName": {
@@ -296,7 +354,7 @@
     "last": "08/11/2023",
     "aerover": "369210523",
     "betadev": {
-      "betakey": true,
+      "betakey": false,
       "betaver": "369210522"
     }
   }
