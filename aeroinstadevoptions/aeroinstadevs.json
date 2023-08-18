@@ -352,10 +352,10 @@
   },
   "AeroOthers": {
     "last": "08/11/2023",
-    "aerover": "369210523",
+    "aerover": "369210522",
     "betadev": {
-      "betakey": false,
-      "betaver": "369210522"
+      "betakey": true,
+      "betaver": "369210521"
     }
   }
 }
