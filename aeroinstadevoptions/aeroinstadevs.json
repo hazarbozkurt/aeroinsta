@@ -2,10 +2,10 @@
   "AeroTabs": {
     "AeroTab1": {
       "AeroTabName": {
-        "en": "Posts",
-        "pt": "Publicações",
-        "es": "Publicaciones",
-        "tr": "Gönderiler"
+        "en": "Posts 🖼️",
+        "pt": "Publicações 🖼️",
+        "es": "Publicaciones 🖼️",
+        "tr": "Gönderiler 🖼️"
       },
       "AeroTabKeys": [
         "KEY6",
@@ -15,7 +15,7 @@
     },
     "AeroTab2": {
       "AeroTabName": {
-        "en": "Reels"
+        "en": "Reels ▶️"
       },
       "AeroTabKeys": [
         "KEY1",
@@ -24,10 +24,10 @@
     },
     "AeroTab3": {
       "AeroTabName": {
-        "en": "Home Screen",
-        "pt": "Tela Inicial",
-        "es": "Pantalla de Inicio",
-        "tr": "Ana Ekran"
+        "en": "Home Screen 🏠",
+        "pt": "Tela Inicial 🏠",
+        "es": "Pantalla de Inicio 🏠",
+        "tr": "Ana Ekran 🏠"
       },
       "AeroTabKeys": [
         "KEY4",
@@ -47,10 +47,10 @@
     },
     "AeroTab5": {
       "AeroTabName": {
-        "en": "General",
-        "pt": "Geral",
-        "es": "General",
-        "tr": "Genel"
+        "en": "General 🧩",
+        "pt": "Geral 🧩",
+        "es": "General 🧩",
+        "tr": "Genel 🧩"
       },
       "AeroTabKeys": [
         "KEY3"
