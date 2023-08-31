@@ -2,10 +2,11 @@
   "AeroTabs": {
     "AeroTab1": {
       "AeroTabName": {
-        "en": "Posts 🖼️",
-        "pt": "Publicações 🖼️",
-        "es": "Publicaciones 🖼️",
-        "tr": "Gönderiler 🖼️"
+        "en": "Posts",
+        "pt": "Publicações",
+        "es": "Publicaciones",
+        "tr": "Gönderiler ",
+        "AeroMoji": "🖼️"
       },
       "AeroTabKeys": [
         "KEY6",
@@ -15,7 +16,8 @@
     },
     "AeroTab2": {
       "AeroTabName": {
-        "en": "Reels ▶️"
+        "en": "Reels",
+        "AeroMoji": "▶️"
       },
       "AeroTabKeys": [
         "KEY1",
@@ -24,10 +26,11 @@
     },
     "AeroTab3": {
       "AeroTabName": {
-        "en": "Home Screen 🏠",
-        "pt": "Tela Inicial 🏠",
-        "es": "Pantalla de Inicio 🏠",
-        "tr": "Ana Ekran 🏠"
+        "en": "Home Screen",
+        "pt": "Tela Inicial",
+        "es": "Pantalla de Inicio",
+        "tr": "Ana Ekran",
+        "AeroMoji": "🏠️"
       },
       "AeroTabKeys": [
         "KEY4",
@@ -36,21 +39,25 @@
     },
     "AeroTab4": {
       "AeroTabName": {
-        "en": "Fixes 🛠️",
-        "pt": "Correções 🛠️",
-        "es": "Correcciones 🛠️",
-        "tr": "Düzeltmeler 🛠️"
+        "en": "Fixes",
+        "pt": "Correções",
+        "es": "Correcciones",
+        "tr": "Düzeltmeler",
+        "AeroMoji": "🛠️"
       },
       "AeroTabKeys": [
-        "KEY9"
+        "KEY9",
+        "KEY10",
+        "KEY11"
       ]
     },
     "AeroTab5": {
       "AeroTabName": {
-        "en": "General 🧩",
-        "pt": "Geral 🧩",
-        "es": "General 🧩",
-        "tr": "Genel 🧩"
+        "en": "General",
+        "pt": "Geral",
+        "es": "General",
+        "tr": "Genel",
+        "AeroMoji": "🧩️"
       },
       "AeroTabKeys": [
         "KEY3"
@@ -345,8 +352,142 @@
         "strikethrough": false,
         "crtcl": false,
         "disabled": false,
-        "rcmnd": true,
+        "rcmnd": false,
         "DisabledDevs": []
+      }
+    },
+    "KEY10": {
+      "DevName": {
+        "en": "Fix the crash issue with the 'Save' button (test 1) (If that does not work, try the other option).",
+        "pt": "Corrija o problema de falha relacionado ao botão 'Salvar' (teste 1) (se isso não funcionar, tente a outra opção).",
+        "es": "Corrija el problema de bloqueo con el botón 'Guardar' (prueba 1) (si esto no funciona, intente la otra opción).",
+        "tr": "'Kaydet' düğmesi ile ilgili çökme sorununu düzelt (deneme 1) (eğer işe yaramazsa, diğer seçeneği deneyin)."
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "45238:",
+          "CodeOverrides": [
+            "2: : false"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": [
+          "KEY11"
+        ]
+      }
+    },
+    "KEY11": {
+      "DevName": {
+        "en": "Fix the crash issue with the 'Save' button (test 2) (If that does not work, try the other option).",
+        "pt": "Corrija o problema de falha relacionado ao botão 'Salvar' (teste 2) (se isso não funcionar, tente a outra opção).",
+        "es": "Corrija el problema de bloqueo con el botón 'Guardar' (prueba 2) (si esto no funciona, intente la otra opción).",
+        "tr": "'Kaydet' düğmesi ile ilgili çökme sorununu düzelt (deneme 2) (eğer işe yaramazsa, diğer seçeneği deneyin)."
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "58599:",
+          "CodeOverrides": [
+            "0: : false"
+          ]
+        },
+        "DevCode2": {
+          "CodeName": "54930:",
+          "CodeOverrides": [
+            "0: : false"
+          ]
+        },
+        "DevCode3": {
+          "CodeName": "55704:",
+          "CodeOverrides": [
+            "1: : false"
+          ]
+        },
+        "DevCode4": {
+          "CodeName": "52509:",
+          "CodeOverrides": [
+            "0: : false",
+            "1: : false",
+            "3: : false",
+            "5: : false"
+          ]
+        },
+        "DevCode5": {
+          "CodeName": "49466:",
+          "CodeOverrides": [
+            "7: : false"
+          ]
+        },
+        "DevCode6": {
+          "CodeName": "51919:",
+          "CodeOverrides": [
+            "5: : false",
+            "2: : false",
+            "3: : false",
+            "4: : false"
+          ]
+        },
+        "DevCode7": {
+          "CodeName": "51407:",
+          "CodeOverrides": [
+            "7: : false",
+            "5: : false"
+          ]
+        },
+        "DevCode8": {
+          "CodeName": "47452:",
+          "CodeOverrides": [
+            "2: : false"
+          ]
+        },
+        "DevCode9": {
+          "CodeName": "50066:",
+          "CodeOverrides": [
+            "1: : false"
+          ]
+        },
+        "DevCode10": {
+          "CodeName": "54253:",
+          "CodeOverrides": [
+            "0: : false"
+          ]
+        },
+        "DevCode11": {
+          "CodeName": "56857:",
+          "CodeOverrides": [
+            "0: : false"
+          ]
+        },
+        "DevCode12": {
+          "CodeName": "45238:",
+          "CodeOverrides": [
+            "8: : false",
+            "3: : false",
+            "7: : false",
+            "2: : false",
+            "0: : false",
+            "10: : false",
+            "4: : false",
+            "6: : false"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": [
+          "KEY10"
+        ]
       }
     }
   },
