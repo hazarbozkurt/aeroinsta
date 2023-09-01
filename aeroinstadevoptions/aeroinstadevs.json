@@ -12,7 +12,9 @@
             "KEY6",
             "KEY7",
             "KEY8",
-            "KEY12"
+            "KEY12",
+            "KEY21",
+            "KEY22"
          ]
       },
       "AeroTab2": {
@@ -758,6 +760,60 @@
             "disabled": false,
             "rcmnd": false,
             "DisabledDevs": []
+         }
+      },
+      "KEY21": {
+         "DevName": {
+            "en": "Enable the 'See translation' in comments",
+            "pt": "Habilite a 'Ver tradução' nos comentários",
+            "es": "Habilitar la 'Ver traducción' en los comentarios",
+            "tr": "Yorumlarda 'Çevirisine bak\" düğmesini etkinleştir"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "51191:",
+               "CodeOverrides": [
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": [
+               "KEY22"
+            ]
+         }
+      },
+      "KEY22": {
+         "DevName": {
+            "en": "Disable the 'See translation' in comments",
+            "pt": "Desative o 'Ver tradução' nos comentários",
+            "es": "Desactivar la 'Ver traducción' en los comentarios",
+            "tr": "Yorumlarda \"Çevirisine bak\" düğmesini devre dışı bırak"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "51191:",
+               "CodeOverrides": [
+                  "0: : false"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": [
+               "KEY21"
+            ]
          }
       }
    },
