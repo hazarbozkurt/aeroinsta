@@ -24,7 +24,8 @@
       },
       "AeroMoji": "🎞️",
       "AeroTabKeys": [
-        "KEY13"
+        "KEY13",
+        "KEY14"
       ]
     },
     "AeroTab3": {
@@ -551,6 +552,32 @@
             "13: : true",
             "11: : true",
             "1: : false"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": []
+      }
+    },
+    "KEY14": {
+      "DevName": {
+        "en": "Enable the ability to zoom in on stories using finger gestures",
+        "pt": "Ative a capacidade de aproximar histórias usando gestos com os dedos",
+        "es": "Active la capacidad de acercar historias usando gestos con los dedos",
+        "tr": "Parmak hareketlerini kullanarak hikayeleri yakınlaştırma yeteneğini etkinleştir"
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "55260:",
+          "CodeOverrides": [
+            "1: : true",
+            "0: : true"
           ]
         }
       },
