@@ -50,7 +50,8 @@
          "AeroTabKeys": [
             "KEY1",
             "KEY2",
-            "KEY18"
+            "KEY18",
+            "KEY19"
          ]
       },
       "AeroTab5": {
@@ -694,6 +695,31 @@
                "CodeName": "52814:",
                "CodeOverrides": [
                   "12: : true"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": []
+         }
+      },
+      "KEY19": {
+         "DevName": {
+            "en": "Show the Reels caption in the comment section",
+            "pt": "Mostre a legenda do Reels na seção de comentários",
+            "es": "Muestre la leyenda de Reels en la sección de comentarios",
+            "tr": "Reels'in açıklamasını/başlığını yorumlar bölümünde göster"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "59170:",
+               "CodeOverrides": [
+                  "0: : false"
                ]
             }
          },
