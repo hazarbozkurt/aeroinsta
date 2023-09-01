@@ -17,6 +17,18 @@
     },
     "AeroTab2": {
       "AeroTabName": {
+        "en": "Stories",
+        "pt": "Histórias",
+        "es": "Historias",
+        "tr": "Hikayeler"
+      },
+      "AeroMoji": "🎞️",
+      "AeroTabKeys": [
+        "KEY13"
+      ]
+    },
+    "AeroTab3": {
+      "AeroTabName": {
         "en": "Reels"
       },
       "AeroMoji": "▶️",
@@ -25,7 +37,7 @@
         "KEY2"
       ]
     },
-    "AeroTab3": {
+    "AeroTab4": {
       "AeroTabName": {
         "en": "Home Screen",
         "pt": "Tela Inicial",
@@ -38,7 +50,7 @@
         "KEY5"
       ]
     },
-    "AeroTab4": {
+    "AeroTab5": {
       "AeroTabName": {
         "en": "Fixes",
         "pt": "Correções",
@@ -52,7 +64,7 @@
         "KEY11"
       ]
     },
-    "AeroTab5": {
+    "AeroTab6": {
       "AeroTabName": {
         "en": "General",
         "pt": "Geral",
@@ -496,13 +508,49 @@
         "en": "Enable the ability to delete individual posts in carousel posts (a trash can icon will appear when editing a post)",
         "pt": "Ative a capacidade de excluir publicações individuais em postagens de carrossel (um ícone de lixeira aparecerá ao editar uma publicação)",
         "es": "Habilite la capacidad de eliminar publicaciones individuales en publicaciones de carrusel (aparecerá un icono de papelera al editar una publicación)",
-        "tr": "Kaydırmalı gönderilerde tek tek gönderi silme özelliğini etkinleştirin (bir gönderiyi düzenlerken bir çöp kutusu simgesi görünecektir)"
+        "tr": "Kaydırmalı gönderilerde tek tek gönderi silme özelliğini etkinleştir (bir gönderiyi düzenlerken bir çöp kutusu simgesi görünecektir)"
       },
       "DevCodes": {
         "DevCode1": {
           "CodeName": "38033:",
           "CodeOverrides": [
             "0: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": []
+      }
+    },
+    "KEY13": {
+      "DevName": {
+        "en": "Enable the ability to reply to stories using audio messages or a camera",
+        "pt": "Ative a capacidade de responder a histórias usando mensagens de áudio ou uma câmera",
+        "es": "Habilite la capacidad de responder a historias usando mensajes de audio o una cámara",
+        "tr": "Hikayelere sesli mesaj veya kamera kullanarak yanıt verme özelliğini etkinleştir"
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "45145:",
+          "CodeOverrides": [
+            "3: : true",
+            "9: : true",
+            "10: : true",
+            "7: : true",
+            "2: : true",
+            "12: : true",
+            "6: : true",
+            "4: : true",
+            "0: : true",
+            "13: : true",
+            "11: : true",
+            "1: : false"
           ]
         }
       },
