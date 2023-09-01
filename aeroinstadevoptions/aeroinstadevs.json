@@ -37,7 +37,8 @@
       },
       "AeroMoji": "💬",
       "AeroTabKeys": [
-        "KEY15"
+        "KEY15",
+        "KEY16"
       ]
     },
     "AeroTab4": {
@@ -613,6 +614,31 @@
       "DevCodes": {
         "DevCode1": {
           "CodeName": "58317:",
+          "CodeOverrides": [
+            "0: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
+        "DisabledDevs": []
+      }
+    },
+    "KEY16": {
+      "DevName": {
+        "en": "Enable the automatic playback of the next voice message when the current voice message ends",
+        "pt": "Habilite a reprodução automática da próxima mensagem de voz quando a mensagem de voz atual terminar",
+        "es": "Habilite la reproducción automática del siguiente mensaje de voz cuando termine el mensaje de voz actual",
+        "tr": "Mevcut sesli mesaj sona erdiğinde sonraki sesli mesajın otomatik olarak oynatılmasını etkinleştir"
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "58859:",
           "CodeOverrides": [
             "0: : true"
           ]
