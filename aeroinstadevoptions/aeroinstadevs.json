@@ -38,7 +38,8 @@
       "AeroMoji": "💬",
       "AeroTabKeys": [
         "KEY15",
-        "KEY16"
+        "KEY16",
+        "KEY17"
       ]
     },
     "AeroTab4": {
@@ -641,6 +642,32 @@
           "CodeName": "58859:",
           "CodeOverrides": [
             "0: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": []
+      }
+    },
+    "KEY17": {
+      "DevName": {
+        "en": "Enable the quick scroll to bottom button in messages",
+        "pt": "Ative o botão de rolagem rápida para baixo nas mensagens",
+        "es": "Active el botón de desplazamiento rápido hacia abajo en los mensajes",
+        "tr": "Mesajlarda aşağı doğru hızlı kaydırma düğmesini etkinleştir"
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "49312:",
+          "CodeOverrides": [
+            "0: : true",
+            "1: : true"
           ]
         }
       },
