@@ -30,6 +30,18 @@
     },
     "AeroTab3": {
       "AeroTabName": {
+        "en": "Direct Messages",
+        "pt": "Mensagens Diretas",
+        "es": "Mensajes Directos",
+        "tr": "Direkt Mesajları"
+      },
+      "AeroMoji": "💬",
+      "AeroTabKeys": [
+        "KEY15"
+      ]
+    },
+    "AeroTab4": {
+      "AeroTabName": {
         "en": "Reels"
       },
       "AeroMoji": "▶️",
@@ -38,7 +50,7 @@
         "KEY2"
       ]
     },
-    "AeroTab4": {
+    "AeroTab5": {
       "AeroTabName": {
         "en": "Home Screen",
         "pt": "Tela Inicial",
@@ -51,7 +63,7 @@
         "KEY5"
       ]
     },
-    "AeroTab5": {
+    "AeroTab6": {
       "AeroTabName": {
         "en": "Fixes",
         "pt": "Correções",
@@ -65,7 +77,7 @@
         "KEY11"
       ]
     },
-    "AeroTab6": {
+    "AeroTab7": {
       "AeroTabName": {
         "en": "General",
         "pt": "Geral",
@@ -588,6 +600,31 @@
         "crtcl": false,
         "disabled": false,
         "rcmnd": false,
+        "DisabledDevs": []
+      }
+    },
+    "KEY15": {
+      "DevName": {
+        "en": "Enable the ability to unlike a message by double-tapping it",
+        "pt": "Habilite a capacidade de desfazer o like de uma mensagem tocando duas vezes nela",
+        "es": "Habilite la capacidad de desgustar un mensaje tocando dos veces",
+        "tr": "Mesaja çift dokunarak beğenmeme özelliğini etkinleştir"
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "58317:",
+          "CodeOverrides": [
+            "0: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": true,
         "DisabledDevs": []
       }
     }
