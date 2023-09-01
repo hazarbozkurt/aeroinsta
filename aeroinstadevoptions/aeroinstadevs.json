@@ -5,9 +5,9 @@
         "en": "Posts",
         "pt": "Publicações",
         "es": "Publicaciones",
-        "tr": "Gönderiler ",
-        "AeroMoji": "🖼️"
+        "tr": "Gönderiler "
       },
+      "AeroMoji": "🖼️",
       "AeroTabKeys": [
         "KEY6",
         "KEY7",
@@ -16,9 +16,9 @@
     },
     "AeroTab2": {
       "AeroTabName": {
-        "en": "Reels",
-        "AeroMoji": "▶️"
+        "en": "Reels"
       },
+      "AeroMoji": "▶️",
       "AeroTabKeys": [
         "KEY1",
         "KEY2"
@@ -29,9 +29,9 @@
         "en": "Home Screen",
         "pt": "Tela Inicial",
         "es": "Pantalla de Inicio",
-        "tr": "Ana Ekran",
-        "AeroMoji": "🏠️"
+        "tr": "Ana Ekran"
       },
+      "AeroMoji": "🏠️",
       "AeroTabKeys": [
         "KEY4",
         "KEY5"
@@ -42,9 +42,9 @@
         "en": "Fixes",
         "pt": "Correções",
         "es": "Correcciones",
-        "tr": "Düzeltmeler",
-        "AeroMoji": "🛠️"
+        "tr": "Düzeltmeler"
       },
+      "AeroMoji": "🛠️",
       "AeroTabKeys": [
         "KEY9",
         "KEY10",
@@ -56,9 +56,9 @@
         "en": "General",
         "pt": "Geral",
         "es": "General",
-        "tr": "Genel",
-        "AeroMoji": "🧩️"
+        "tr": "Genel"
       },
+      "AeroMoji": "🧩️",
       "AeroTabKeys": [
         "KEY3"
       ]
