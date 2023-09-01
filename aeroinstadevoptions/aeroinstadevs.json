@@ -78,7 +78,8 @@
          "AeroTabKeys": [
             "KEY9",
             "KEY10",
-            "KEY11"
+            "KEY11",
+            "KEY20"
          ]
       },
       "AeroTab7": {
@@ -720,6 +721,32 @@
                "CodeName": "59170:",
                "CodeOverrides": [
                   "0: : false"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": []
+         }
+      },
+      "KEY20": {
+         "DevName": {
+            "en": "If the 'Copy', 'Translate', and 'Menu' buttons are not visible in the comments, enable this option",
+            "pt": "Se os botões 'Copiar', 'Traduzir' e 'Menu' não estiverem visíveis nos comentários, ative essa opção",
+            "es": "Si los botones 'Copiar', 'Traducir' y 'Menú' no son visibles en los comentarios, active esta opción",
+            "tr": "Yorumlarda 'Kopyala', 'Çevir' ve 'Menü' düğmeleri görünmüyorsa bu seçeneği etkinleştir"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "57257:",
+               "CodeOverrides": [
+                  "0: : false",
+                  "1: : false"
                ]
             }
          },
