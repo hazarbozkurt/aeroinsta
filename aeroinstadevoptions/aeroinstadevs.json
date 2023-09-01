@@ -11,7 +11,8 @@
       "AeroTabKeys": [
         "KEY6",
         "KEY7",
-        "KEY8"
+        "KEY8",
+        "KEY12"
       ]
     },
     "AeroTab2": {
@@ -67,10 +68,10 @@
   "AERODEVS": {
     "KEY1": {
       "DevName": {
-        "en": "Enable the fast forward and rewind feature for the Reels videos.",
-        "pt": "Ative a função de avanço rápido e retrocesso para os vídeos Reels.",
-        "es": "Habilita la función de avance rápido y retroceso para los videos de Reels.",
-        "tr": "Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir."
+        "en": "Enable the fast forward and rewind feature for the Reels videos",
+        "pt": "Ative a função de avanço rápido e retrocesso para os vídeos Reels",
+        "es": "Habilita la función de avance rápido y retroceso para los videos de Reels",
+        "tr": "Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir"
       },
       "DevCodes": {
         "DevCode1": {
@@ -148,10 +149,10 @@
     },
     "KEY3": {
       "DevName": {
-        "en": "Enable the internal/employee mode (is_employee).",
-        "pt": "Ativa o modo interno/de funcionário (is_employee).",
-        "es": "Activa el modo interno/de empleado (is_employee).",
-        "tr": "Dahili/Çalışan modunu etkinleştirir (is_employee)."
+        "en": "Enable the internal/employee mode (is_employee)",
+        "pt": "Ativa o modo interno/de funcionário (is_employee)",
+        "es": "Activa el modo interno/de empleado (is_employee)",
+        "tr": "Dahili/Çalışan modunu etkinleştirir (is_employee)"
       },
       "DevCodes": {
         "DevCode1": {
@@ -173,10 +174,10 @@
     },
     "KEY4": {
       "DevName": {
-        "en": "Place the 'heart' icon in the bottom right corner, the 'Reels' icon in the bottom center, and the 'Share' icon in the top right corner.",
-        "pt": "Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior e o ícone 'Compartilhar' no canto superior direito.",
-        "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior y el ícono de 'Compartir' en la esquina superior derecha.",
-        "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze ve 'Paylaş' simgesini sağ üst köşeye yerleştir."
+        "en": "Place the 'heart' icon in the bottom right corner, the 'Reels' icon in the bottom center, and the 'Share' icon in the top right corner",
+        "pt": "Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior e o ícone 'Compartilhar' no canto superior direito",
+        "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior y el ícono de 'Compartir' en la esquina superior derecha",
+        "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze ve 'Paylaş' simgesini sağ üst köşeye yerleştir"
       },
       "DevCodes": {
         "DevCode1": {
@@ -203,9 +204,9 @@
     "KEY5": {
       "DevName": {
         "en": "Place the 'heart' icon in the bottom right corner, the 'Reels' icon in the bottom center",
-        "pt": "Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior.",
-        "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior.",
-        "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze yerleştir."
+        "pt": "Coloque o ícone 'coração' no canto inferior direito, o ícone 'Reels' no centro inferior",
+        "es": "Coloca el ícono de 'corazón' en la esquina inferior derecha, el ícono de 'Reels' en el centro inferior",
+        "tr": "'Kalp' simgesini sağ alt köşeye, 'Reels' simgesini alt merkeze yerleştir"
       },
       "DevCodes": {
         "DevCode1": {
@@ -230,10 +231,10 @@
     },
     "KEY6": {
       "DevName": {
-        "en": "Enable the ability to break to a new line while typing comments.",
-        "pt": "Habilite a capacidade de quebrar para uma nova linha ao digitar comentários.",
-        "es": "Habilite la capacidad de saltar a una nueva línea mientras escribe comentarios.",
-        "tr": "Yorum yazarken yeni bir satıra geçme yeteneğini etkinleştir."
+        "en": "Enable the ability to break to a new line while typing comments",
+        "pt": "Habilite a capacidade de quebrar para uma nova linha ao digitar comentários",
+        "es": "Habilite la capacidad de saltar a una nueva línea mientras escribe comentarios",
+        "tr": "Yorum yazarken yeni bir satıra geçme yeteneğini etkinleştir"
       },
       "DevCodes": {
         "DevCode1": {
@@ -255,10 +256,10 @@
     },
     "KEY7": {
       "DevName": {
-        "en": "Prevent emojis from being sent in the comments with a single tap.",
-        "pt": "Impedir emojis de serem enviados nos comentários com um único toque.",
-        "es": "Evita que los emojis se envíen en los comentarios con un solo toque.",
-        "tr": "Yorumlarda emojilerin tek bir dokunuşla gönderilmesini devre dışı bırak."
+        "en": "Prevent emojis from being sent in the comments with a single tap",
+        "pt": "Impedir emojis de serem enviados nos comentários com um único toque",
+        "es": "Evita que los emojis se envíen en los comentarios con un solo toque",
+        "tr": "Yorumlarda emojilerin tek bir dokunuşla gönderilmesini devre dışı bırak"
       },
       "DevCodes": {
         "DevCode1": {
@@ -358,10 +359,10 @@
     },
     "KEY10": {
       "DevName": {
-        "en": "Fix the crash issue with the 'Save' button (test 1) (If that does not work, try the other option).",
-        "pt": "Corrija o problema de falha relacionado ao botão 'Salvar' (teste 1) (se isso não funcionar, tente a outra opção).",
-        "es": "Corrija el problema de bloqueo con el botón 'Guardar' (prueba 1) (si esto no funciona, intente la otra opción).",
-        "tr": "'Kaydet' düğmesi ile ilgili çökme sorununu düzelt (deneme 1) (eğer işe yaramazsa, diğer seçeneği deneyin)."
+        "en": "Fix the crash issue with the 'Save' button (test 1) (If that does not work, try the other option)",
+        "pt": "Corrija o problema de falha relacionado ao botão 'Salvar' (teste 1) (se isso não funcionar, tente a outra opção)",
+        "es": "Corrija el problema de bloqueo con el botón 'Guardar' (prueba 1) (si esto no funciona, intente la otra opción)",
+        "tr": "'Kaydet' düğmesi ile ilgili çökme sorununu düzelt (deneme 1) (eğer işe yaramazsa, diğer seçeneği deneyin)"
       },
       "DevCodes": {
         "DevCode1": {
@@ -385,10 +386,10 @@
     },
     "KEY11": {
       "DevName": {
-        "en": "Fix the crash issue with the 'Save' button (test 2) (If that does not work, try the other option).",
-        "pt": "Corrija o problema de falha relacionado ao botão 'Salvar' (teste 2) (se isso não funcionar, tente a outra opção).",
-        "es": "Corrija el problema de bloqueo con el botón 'Guardar' (prueba 2) (si esto no funciona, intente la otra opción).",
-        "tr": "'Kaydet' düğmesi ile ilgili çökme sorununu düzelt (deneme 2) (eğer işe yaramazsa, diğer seçeneği deneyin)."
+        "en": "Fix the crash issue with the 'Save' button (test 2) (If that does not work, try the other option)",
+        "pt": "Corrija o problema de falha relacionado ao botão 'Salvar' (teste 2) (se isso não funcionar, tente a outra opção)",
+        "es": "Corrija el problema de bloqueo con el botón 'Guardar' (prueba 2) (si esto no funciona, intente la otra opción)",
+        "tr": "'Kaydet' düğmesi ile ilgili çökme sorununu düzelt (deneme 2) (eğer işe yaramazsa, diğer seçeneği deneyin)"
       },
       "DevCodes": {
         "DevCode1": {
@@ -488,6 +489,31 @@
         "DisabledDevs": [
           "KEY10"
         ]
+      }
+    },
+    "KEY12": {
+      "DevName": {
+        "en": "Enable the ability to delete individual posts in carousel posts (a trash can icon will appear when editing a post)",
+        "pt": "Ative a capacidade de excluir publicações individuais em postagens de carrossel (um ícone de lixeira aparecerá ao editar uma publicação)",
+        "es": "Habilite la capacidad de eliminar publicaciones individuales en publicaciones de carrusel (aparecerá un icono de papelera al editar una publicación)",
+        "tr": "Kaydırmalı gönderilerde tek tek gönderi silme özelliğini etkinleştirin (bir gönderiyi düzenlerken bir çöp kutusu simgesi görünecektir)"
+      },
+      "DevCodes": {
+        "DevCode1": {
+          "CodeName": "38033:",
+          "CodeOverrides": [
+            "0: : true"
+          ]
+        }
+      },
+      "DevDetail": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "crtcl": false,
+        "disabled": false,
+        "rcmnd": false,
+        "DisabledDevs": []
       }
     }
   },
