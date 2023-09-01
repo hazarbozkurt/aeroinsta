@@ -86,7 +86,7 @@
         "bold": false,
         "italic": false,
         "strikethrough": false,
-        "crtcl": true,
+        "crtcl": false,
         "disabled": false,
         "rcmnd": false,
         "DisabledDevs": [
@@ -482,7 +482,7 @@
         "bold": false,
         "italic": false,
         "strikethrough": false,
-        "crtcl": false,
+        "crtcl": true,
         "disabled": false,
         "rcmnd": false,
         "DisabledDevs": [
@@ -492,7 +492,7 @@
     }
   },
   "AeroOthers": {
-    "last": "08/11/2023",
+    "last": "01/09/2023",
     "aerover": "369210522",
     "betadev": {
       "betakey": true,
