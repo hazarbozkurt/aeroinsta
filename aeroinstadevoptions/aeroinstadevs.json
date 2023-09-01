@@ -650,7 +650,7 @@
         "strikethrough": false,
         "crtcl": false,
         "disabled": false,
-        "rcmnd": true,
+        "rcmnd": false,
         "DisabledDevs": []
       }
     }
