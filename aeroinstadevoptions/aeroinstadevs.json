@@ -678,10 +678,10 @@
          },
          "DevDetail": {
             "bold": false,
-            "italic": true,
-            "strikethrough": true,
+            "italic": false,
+            "strikethrough": false,
             "crtcl": false,
-            "disabled": true,
+            "disabled": false,
             "rcmnd": false,
             "DisabledDevs": []
          }
