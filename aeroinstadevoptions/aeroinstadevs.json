@@ -95,6 +95,18 @@
          "AeroTabKeys": [
             "KEY3"
          ]
+      },
+      "AeroTab8": {
+         "AeroTabName": {
+            "en": "Highlighted Stories",
+            "pt": "Histórias em Destaque",
+            "es": "Historias Destacadas",
+            "tr": "Öne Çıkarılan Hikayeler"
+         },
+         "AeroMoji": "📌",
+         "AeroTabKeys": [
+            "KEY23"
+         ]
       }
    },
    "AERODEVS": {
@@ -678,10 +690,10 @@
          },
          "DevDetail": {
             "bold": false,
-            "italic": false,
-            "strikethrough": false,
+            "italic": true,
+            "strikethrough": true,
             "crtcl": false,
-            "disabled": false,
+            "disabled": true,
             "rcmnd": false,
             "DisabledDevs": []
          }
@@ -814,6 +826,31 @@
             "DisabledDevs": [
                "KEY21"
             ]
+         }
+      },
+      "KEY23": {
+         "DevName": {
+            "en": "Enable the ability to pin highlighted stories",
+            "pt": "Habilite a capacidade de fixar histórias destacadas",
+            "es": "Habilite la capacidad de fijar historias destacadas",
+            "tr": "Öne çıkarılan hikayeleri sabitleme yeteneğini etkinleştir"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "27176:",
+               "CodeOverrides": [
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": []
          }
       }
    },
