@@ -93,8 +93,10 @@
          },
          "AeroMoji": "🧩️",
          "AeroTabKeys": [
-            "KEY3",
-            "KEY24"
+            "KEY24",
+            "KEY25",
+            "KEY26",
+            "KEY3"
          ]
       },
       "AeroTab8": {
@@ -877,6 +879,64 @@
             "disabled": false,
             "rcmnd": true,
             "DisabledDevs": []
+         }
+      },
+      "KEY25": {
+         "DevName": {
+            "en": "Enable new Instagram settings design",
+            "pt": "Ativar o novo design das configurações do Instagram",
+            "es": "Habilitar el nuevo diseño de la configuración de Instagram",
+            "tr": "Yeni Instagram ayarlar tasarımını etkinleştir"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "51538:",
+               "CodeOverrides": [
+                  "3: : true",
+                  "1: : true",
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": [
+               "KEY26"
+            ]
+         }
+      },
+      "KEY26": {
+         "DevName": {
+            "en": "Disable the new Instagram settings design",
+            "pt": "Desabilitar o novo design das configurações do Instagram",
+            "es": "Deshabilitar el nuevo diseño de la configuración de Instagram",
+            "tr": "Yeni Instagram ayarlar tasarımını devre dışı bırak"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "51538:",
+               "CodeOverrides": [
+                  "3: : false",
+                  "1: : false",
+                  "0: : false"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": [
+               "KEY25"
+            ]
          }
       }
    },
