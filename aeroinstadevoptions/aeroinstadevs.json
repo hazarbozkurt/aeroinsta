@@ -93,7 +93,8 @@
          },
          "AeroMoji": "🧩️",
          "AeroTabKeys": [
-            "KEY3"
+            "KEY3",
+            "KEY24"
          ]
       },
       "AeroTab8": {
@@ -208,10 +209,10 @@
          },
          "DevDetail": {
             "bold": false,
-            "italic": false,
-            "strikethrough": false,
+            "italic": true,
+            "strikethrough": true,
             "crtcl": false,
-            "disabled": false,
+            "disabled": true,
             "rcmnd": false,
             "DisabledDevs": []
          }
@@ -852,10 +853,35 @@
             "rcmnd": false,
             "DisabledDevs": []
          }
+      },
+      "KEY24": {
+         "DevName": {
+            "en": "Enable the \"See shared activity\" menu (to view, visit a profile, tap the three dots)",
+            "pt": "Habilite o menu \"Ver atividade compartilhada\" (para ver, visitar um perfil, toque nos três pontos)",
+            "es": "Active el menú \"Ver actividad compartida\" (para ver, visitar un perfil, toca en los tres puntos)",
+            "tr": "\"Paylaşılan hareketleri gör\" menüsünü etkinleştir (görmek için bir profili ziyaret edin, sağ üstteki üç noktaya dokunun)"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "59115:",
+               "CodeOverrides": [
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": true,
+            "DisabledDevs": []
+         }
       }
    },
    "AeroOthers": {
-      "last": "01/09/2023",
+      "last": "04/09/2023",
       "aerover": "369210522",
       "betadev": {
          "betakey": true,
