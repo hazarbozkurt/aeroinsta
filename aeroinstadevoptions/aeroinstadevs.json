@@ -245,7 +245,7 @@
             "strikethrough": false,
             "crtcl": false,
             "disabled": false,
-            "rcmnd": false,
+            "rcmnd": true,
             "DisabledDevs": [
                "KEY5"
             ]
