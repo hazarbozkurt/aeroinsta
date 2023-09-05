@@ -67,7 +67,8 @@
             "KEY18",
             "KEY19",
             "KEY27",
-            "KEY28"
+            "KEY28",
+            "KEY29"
          ]
       },
       "AeroTab6": {
@@ -996,14 +997,41 @@
                "KEY27"
             ]
          }
+      },
+      "KEY29": {
+         "DevName": {
+            "en": "Crop the Reels height (this will prevent the Reels on your home screen from taking up your entire screen)",
+            "pt": "Corte o tamanho dos Reels (isso impedirá que os Reels em sua tela inicial ocupem todo o seu espaço)",
+            "es": "Recorte el tamaño de los Reels (esto evitará que los Reels en su pantalla de inicio ocupen toda la pantalla)",
+            "tr": "Reels boyutunu kırp (bu, ana ekranınızdaki Reels'lerin uzunluğunu kırparak tüm ekranınızı kaplamasını engelleyecektir)"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "53132:",
+               "CodeOverrides": [
+                  "2: : true",
+                  "1: : true",
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": []
+         }
       }
    },
    "AeroOthers": {
-      "last": "04/09/2023",
+      "last": "05/09/2023",
       "aerover": "369210522",
       "betadev": {
          "betakey": true,
-         "betaver": "369210522"
+         "betaver": "369210523"
       }
    }
 }
