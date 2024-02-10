@@ -38,9 +38,7 @@
             "tr":"Öne Çıkarılan Hikayeler"
          },
          "AeroMoji":"📌",
-         "AeroTabKeys":[
-            "KEY23"
-         ]
+         "AeroTabKeys":[]
       },
       "AeroTab4":{
          "AeroTabName":{
@@ -64,7 +62,6 @@
          },
          "AeroMoji":"▶️",
          "AeroTabKeys":[
-            "KEY1",
             "KEY2",
             "KEY18",
             "KEY19",
@@ -160,9 +157,7 @@
             "crtcl":false,
             "disabled":false,
             "rcmnd":false,
-            "DisabledDevs":[
-               
-            ]
+            "DisabledDevs":[]
          }
       },
       "KEY3":{
@@ -269,7 +264,7 @@
             "italic":false,
             "strikethrough":false,
             "crtcl":false,
-            "disabled":false,
+            "disabled":true,
             "rcmnd":false,
             "DisabledDevs":[
                
@@ -677,7 +672,7 @@
             "italic":true,
             "strikethrough":true,
             "crtcl":false,
-            "disabled":true,
+            "disabled":false,
             "rcmnd":false,
             "DisabledDevs":[
                
@@ -817,33 +812,6 @@
             "rcmnd":false,
             "DisabledDevs":[
                "KEY21"
-            ]
-         }
-      },
-      "KEY23":{
-         "DevName":{
-            "en":"Enable the ability to pin highlighted stories",
-            "pt":"Habilite a capacidade de fixar histórias destacadas",
-            "es":"Habilite la capacidad de fijar historias destacadas",
-            "tr":"Öne çıkarılan hikayeleri sabitleme yeteneğini etkinleştir"
-         },
-         "DevCodes":{
-            "DevCode1":{
-               "CodeName":"27176:",
-               "CodeOverrides":[
-                  "0: : true"
-               ]
-            }
-         },
-         "DevDetail":{
-            "bold":false,
-            "italic":false,
-            "strikethrough":false,
-            "crtcl":false,
-            "disabled":false,
-            "rcmnd":false,
-            "DisabledDevs":[
-               
             ]
          }
       },
