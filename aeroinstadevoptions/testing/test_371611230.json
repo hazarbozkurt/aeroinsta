@@ -38,9 +38,7 @@
         "tr": "Öne Çıkarılan Hikayeler"
       },
       "AeroMoji": "📌",
-      "AeroTabKeys": [
-        "KEY23"
-      ]
+      "AeroTabKeys": []
     },
     "AeroTab4": {
       "AeroTabName": {
@@ -126,7 +124,9 @@
       "AeroMoji": "🗑️",
       "AeroTabKeys": [
         "KEY1",
-		"KEY6"
+		"KEY6",
+		"KEY23",
+		"KEY17"
       ]
     }
   },
@@ -702,7 +702,7 @@
         "italic": true,
         "strikethrough": true,
         "crtcl": false,
-        "disabled": true,
+        "disabled": false,
         "rcmnd": false,
         "DisabledDevs": []
       }
