@@ -50,8 +50,6 @@
          },
          "AeroMoji":"💬",
          "AeroTabKeys":[
-            "KEY15",
-            "KEY16",
             "KEY30",
             "KEY31"
          ]
@@ -64,9 +62,7 @@
          "AeroTabKeys":[
             "KEY2",
             "KEY18",
-            "KEY19",
             "KEY27",
-            "KEY28",
             "KEY29"
          ]
       },
@@ -126,7 +122,11 @@
             "KEY1",
             "KEY6",
             "KEY23",
-            "KEY17"
+            "KEY17",
+			"KEY15",
+			"KEY16",
+			"KEY19",
+			"KEY28"
          ]
       }
    },
@@ -223,10 +223,10 @@
          },
          "DevDetail":{
             "bold":false,
-            "italic":true,
-            "strikethrough":true,
-            "crtcl":false,
-            "disabled":true,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":true,
+            "disabled":false,
             "rcmnd":false,
             "DisabledDevs":[
                
@@ -664,7 +664,7 @@
             "strikethrough":false,
             "crtcl":false,
             "disabled":false,
-            "rcmnd":true,
+            "rcmnd":false,
             "DisabledDevs":[
                
             ]
@@ -715,8 +715,8 @@
          },
          "DevDetail":{
             "bold":false,
-            "italic":true,
-            "strikethrough":true,
+            "italic":false,
+            "strikethrough":false,
             "crtcl":false,
             "disabled":false,
             "rcmnd":false,
