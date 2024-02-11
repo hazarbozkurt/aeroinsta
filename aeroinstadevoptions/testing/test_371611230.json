@@ -27,7 +27,8 @@
          "AeroTabKeys":[
             "KEY13",
             "KEY14",
-            "KEY34"
+            "KEY34",
+            "KEY37"
          ]
       },
       "AeroTab3":{
@@ -93,7 +94,9 @@
             "KEY25",
             "KEY26",
             "KEY3",
-            "KEY24"
+            "KEY24",
+            "KEY35",
+            "KEY37"
          ]
       },
       "AeroTab8":{
@@ -105,9 +108,10 @@
          },
          "AeroMoji":"🛠️",
          "AeroTabKeys":[
-            "KEY9",
             "KEY10",
             "KEY11",
+            "KEY36",
+            "KEY9",
             "KEY20",
             "KEY32"
          ]
@@ -441,7 +445,8 @@
             "disabled":false,
             "rcmnd":false,
             "DisabledDevs":[
-               "KEY11"
+               "KEY11",
+               "KEY36"
             ]
          }
       },
@@ -548,7 +553,8 @@
             "disabled":false,
             "rcmnd":false,
             "DisabledDevs":[
-               "KEY10"
+               "KEY10",
+               "KEY36"
             ]
          }
       },
@@ -1516,24 +1522,144 @@
       },
       "KEY34":{
          "DevName":{
-            "en":"Enable the \\\"Add to story\\\"option to share comments in your posts to your story",
-            "pt":"Habilite a opção \\\"Adicionar à história\\\" para compartilhar comentários de suas publicações em sua história",
-            "es":"Habilita la opción \\\"Agregar a la historia\\\" para compartir comentarios de tus publicaciones en tu historia",
-            "tr":"Gönderilerinizdeki yorumları hikayenizde paylaşmak için \\\"Hikayeye ekle\\\" seçeneğini etkinleştir"
+            "en":"Enable the \"Add to story\"option to share comments in your posts to your story",
+            "pt":"Ative a opção \"Adicionar à história\" para compartilhar comentários em suas postagens na sua história.",
+            "es":"Activa la opción \"Agregar a historia\" para compartir comentarios en tus publicaciones en tu historia.",
+            "tr":"Gönderilerinizdeki yorumları hikayenizde paylaşmak için \"Hikayeye ekle\" seçeneğini etkinleştir"
          },
          "DevCodes":{
             "DevCode1":{
-               "CodeName":"53873:",
-               "CodeOverrides":[
-                  "4: : false"
-               ]
-            },
-            "DevCode2":{
                "CodeName":"61864:",
                "CodeOverrides":[
                   "2: : true",
                   "0: : true",
                   "1: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY35":{
+         "DevName":{
+            "en":"Enable the filter on the Explore page",
+            "pt":"Ative o filtro na página Explorar",
+            "es":"Activa el filtro en la página de Explorar",
+            "tr":"Keşfet sayfasındaki filtreleri etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"57426:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY36":{
+         "DevName":{
+            "en":"Fix the crash issue with the \"Save\" button (test 3) (If that does not work, try the other option)",
+            "pt":"Corrija o problema de falha relacionado ao botão \"Salvar\" (teste 3) (se isso não funcionar, tente a outra opção)",
+            "es":"Corrija el problema de bloqueo con el botón \"Guardar\" (prueba 3) (si esto no funciona, intente la otra opción)",
+            "tr":"'Kaydet\" düğmesi ile ilgili çökme sorununu düzelt (deneme 3) (eğer işe yaramazsa, diğer seçeneği deneyin)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"45238:",
+               "CodeOverrides":[
+                  "2: : false",
+                  "3: : false",
+                  "8: : false",
+                  "0: : false",
+                  "6: : false",
+                  "10: : false",
+                  "7: : false",
+                  "4: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY10",
+               "KEY11"
+            ]
+         }
+      },
+      "KEY37":{
+         "DevName":{
+            "en":"Enable touch to pause or play Reels",
+            "pt":"Ative o toque para pausar ou reproduzir Reels",
+            "es":"Activa el toque para pausar o reproducir Reels",
+            "tr":"Reels'leri dokunarak duraklatma veya oynatma özelliğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"64066:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY38":{
+         "DevName":{
+            "en":"Enable new design of adding photos to story",
+            "pt":"Ative o novo design para adicionar fotos à história",
+            "es":"Activa el nuevo diseño para agregar fotos a la historia",
+            "tr":"Hikayeye fotoğraf eklemenin yeni tasarımını etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"56372:",
+               "CodeOverrides":[
+                  "4: : true",
+                  "2: : true",
+                  "1: : true",
+                  "0: : true"
+               ]
+            },
+            "DevCode2":{
+               "CodeName":"56875:",
+               "CodeOverrides":[
+                  "2: : true",
+                  "0: : true"
                ]
             }
          },
