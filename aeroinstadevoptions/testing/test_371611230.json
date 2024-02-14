@@ -108,6 +108,7 @@
          },
          "AeroMoji":"🛠️",
          "AeroTabKeys":[
+            "KEY39",
             "KEY10",
             "KEY11",
             "KEY36",
@@ -1660,6 +1661,35 @@
                "CodeOverrides":[
                   "2: : true",
                   "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY39":{
+         "DevName":{
+            "en":"If the Reels title or Reels videos don't fit on your screen, activate this option",
+            "pt":"Se o título do Reels ou os vídeos do Reels não cabem na sua tela, ative esta opção",
+            "es":"Si el título de Reels o los videos de Reels no caben en tu pantalla, activa esta opción",
+            "tr":"Reels başlığı veya Reels videoları ekranınıza sığmıyorsa bu seçeneği etkinleştiriniz"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"47643:",
+               "CodeOverrides":[
+                  "1: : false",
+                  "2: : false",
+                  "3: : false"
                ]
             }
          },
