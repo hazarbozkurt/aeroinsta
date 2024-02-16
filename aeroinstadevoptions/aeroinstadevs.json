@@ -1,1455 +1,1723 @@
 {
-  "AeroTabs": {
-    "AeroTab1": {
-      "AeroTabName": {
-        "en": "Posts",
-        "pt": "Publicações",
-        "es": "Publicaciones",
-        "tr": "Gönderiler"
+   "AeroTabs":{
+      "AeroTab1":{
+         "AeroTabName":{
+            "en":"Posts",
+            "pt":"Publicações",
+            "es":"Publicaciones",
+            "tr":"Gönderiler"
+         },
+         "AeroMoji":"🖼️",
+         "AeroTabKeys":[
+            "KEY7",
+            "KEY8",
+            "KEY12",
+            "KEY21",
+            "KEY22"
+         ]
       },
-      "AeroMoji": "🖼️",
-      "AeroTabKeys": [
-        "KEY6",
-        "KEY7",
-        "KEY8",
-        "KEY12",
-        "KEY21",
-        "KEY22"
-      ]
-    },
-    "AeroTab2": {
-      "AeroTabName": {
-        "en": "Stories",
-        "pt": "Histórias",
-        "es": "Historias",
-        "tr": "Hikayeler"
+      "AeroTab2":{
+         "AeroTabName":{
+            "en":"Stories",
+            "pt":"Histórias",
+            "es":"Historias",
+            "tr":"Hikayeler"
+         },
+         "AeroMoji":"🎞️",
+         "AeroTabKeys":[
+            "KEY13",
+            "KEY14",
+            "KEY34",
+            "KEY38"
+         ]
       },
-      "AeroMoji": "🎞️",
-      "AeroTabKeys": [
-        "KEY13",
-        "KEY14"
-      ]
-    },
-    "AeroTab3": {
-      "AeroTabName": {
-        "en": "Highlighted Stories",
-        "pt": "Histórias em Destaque",
-        "es": "Historias Destacadas",
-        "tr": "Öne Çıkarılan Hikayeler"
+      "AeroTab3":{
+         "AeroTabName":{
+            "en":"Highlighted Stories",
+            "pt":"Histórias em Destaque",
+            "es":"Historias Destacadas",
+            "tr":"Öne Çıkarılan Hikayeler"
+         },
+         "AeroMoji":"📌",
+         "AeroTabKeys":[
+            
+         ]
       },
-      "AeroMoji": "📌",
-      "AeroTabKeys": [
-        "KEY23"
-      ]
-    },
-    "AeroTab4": {
-      "AeroTabName": {
-        "en": "Direct Messages",
-        "pt": "Mensagens Diretas",
-        "es": "Mensajes Directos",
-        "tr": "Direkt Mesajlar"
+      "AeroTab4":{
+         "AeroTabName":{
+            "en":"Direct Messages",
+            "pt":"Mensagens Diretas",
+            "es":"Mensajes Directos",
+            "tr":"Direkt Mesajlar"
+         },
+         "AeroMoji":"💬",
+         "AeroTabKeys":[
+            "KEY30",
+            "KEY31"
+         ]
       },
-      "AeroMoji": "💬",
-      "AeroTabKeys": [
-        "KEY15",
-        "KEY16",
-        "KEY30",
-        "KEY31",
-        "KEY17"
-      ]
-    },
-    "AeroTab5": {
-      "AeroTabName": {
-        "en": "Reels"
+      "AeroTab5":{
+         "AeroTabName":{
+            "en":"Reels"
+         },
+         "AeroMoji":"▶️",
+         "AeroTabKeys":[
+            "KEY2",
+            "KEY18",
+            "KEY27",
+            "KEY29"
+         ]
       },
-      "AeroMoji": "▶️",
-      "AeroTabKeys": [
-        "KEY1",
-        "KEY2",
-        "KEY18",
-        "KEY19",
-        "KEY27",
-        "KEY28",
-        "KEY29"
-      ]
-    },
-    "AeroTab6": {
-      "AeroTabName": {
-        "en": "Home Screen",
-        "pt": "Tela Inicial",
-        "es": "Pantalla de Inicio",
-        "tr": "Ana Ekran"
+      "AeroTab6":{
+         "AeroTabName":{
+            "en":"Home Screen",
+            "pt":"Tela Inicial",
+            "es":"Pantalla de Inicio",
+            "tr":"Ana Ekran"
+         },
+         "AeroMoji":"🏠️",
+         "AeroTabKeys":[
+            "KEY4",
+            "KEY5"
+         ]
       },
-      "AeroMoji": "🏠️",
-      "AeroTabKeys": [
-        "KEY4",
-        "KEY5"
-      ]
-    },
-    "AeroTab7": {
-      "AeroTabName": {
-        "en": "General",
-        "pt": "Geral",
-        "es": "General",
-        "tr": "Genel"
+      "AeroTab7":{
+         "AeroTabName":{
+            "en":"General",
+            "pt":"Geral",
+            "es":"General",
+            "tr":"Genel"
+         },
+         "AeroMoji":"🧩️",
+         "AeroTabKeys":[
+            "KEY33",
+            "KEY25",
+            "KEY26",
+            "KEY3",
+            "KEY24",
+            "KEY35",
+            "KEY37"
+         ]
       },
-      "AeroMoji": "🧩️",
-      "AeroTabKeys": [
-        "KEY25",
-        "KEY26",
-        "KEY3",
-        "KEY24"
-      ]
-    },
-    "AeroTab8": {
-      "AeroTabName": {
-        "en": "Fixes",
-        "pt": "Correções",
-        "es": "Correcciones",
-        "tr": "Düzeltmeler"
+      "AeroTab8":{
+         "AeroTabName":{
+            "en":"Fixes",
+            "pt":"Correções",
+            "es":"Correcciones",
+            "tr":"Düzeltmeler"
+         },
+         "AeroMoji":"🛠️",
+         "AeroTabKeys":[
+            "KEY39",
+            "KEY10",
+            "KEY11",
+            "KEY36",
+            "KEY9",
+            "KEY20",
+            "KEY32"
+         ]
       },
-      "AeroMoji": "🛠️",
-      "AeroTabKeys": [
-        "KEY9",
-        "KEY10",
-        "KEY11",
-        "KEY20",
-        "KEY32"
-      ]
-    }
-  },
-  "AERODEVS": {
-    "KEY1": {
-      "DevName": {
-        "en": "Enable the fast forward and rewind feature for the Reels videos",
-        "pt": "Ative a função de avanço rápido e retrocesso para os vídeos Reels",
-        "es": "Habilita la función de avance rápido y retroceso para los videos de Reels",
-        "tr": "Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "55196:",
-          "CodeOverrides": [
-            "10: : true",
-            "9: : true",
-            "12: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY2"
-        ]
+      "AeroTab9":{
+         "AeroTabName":{
+            "en":"Trash",
+            "pt":"Lixo",
+            "es":"Basura",
+            "tr":"Çöp"
+         },
+         "AeroMoji":"🗑️",
+         "AeroTabKeys":[
+            "KEY1",
+            "KEY6",
+            "KEY23",
+            "KEY17",
+            "KEY15",
+            "KEY16",
+            "KEY19",
+            "KEY28"
+         ]
       }
-    },
-    "KEY2": {
-      "DevName": {
-        "en": "Enable the fast forward and rewind feature for the Reels videos (with time seekbar)",
-        "pt": "Ative a função de avanço rápido e retrocesso para os vídeos Reels (com barra de busca de tempo)",
-        "es": "Habilita la función de avance rápido y retroceso para los videos de Reels (con barra de búsqueda de tiempo)",
-        "tr": "Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir (zaman çubuğu ile)"
+   },
+   "AERODEVS":{
+      "KEY1":{
+         "DevName":{
+            "en":"Enable the fast forward and rewind feature for the Reels videos",
+            "pt":"Ative a função de avanço rápido e retrocesso para os vídeos Reels",
+            "es":"Habilita la función de avance rápido y retroceso para los videos de Reels",
+            "tr":"Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"55196:",
+               "CodeOverrides":[
+                  "10: : true",
+                  "9: : true",
+                  "12: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY2"
+            ]
+         }
       },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "37418:",
-          "CodeOverrides": [
-            "47: : true",
-            "27: : true",
-            "60: : 1"
-          ]
-        },
-        "DevCode2": {
-          "CodeName": "51484:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        },
-        "DevCode3": {
-          "CodeName": "55196:",
-          "CodeOverrides": [
-            "12: : true",
-            "9: : false",
-            "8: : true",
-            "7: : true",
-            "3: : true",
-            "2: : true",
-            "1: : true",
-            "6: : true",
-            "0: : true",
-            "4: : true",
-            "5: : 0",
-            "11: : 0"
-          ]
-        }
+      "KEY2":{
+         "DevName":{
+            "en":"Enable the fast forward and rewind feature for the Reels videos",
+            "pt":"Ative a função de avanço rápido e retrocesso para os vídeos Reels",
+            "es":"Habilita la función de avance rápido y retroceso para los videos de Reels",
+            "tr":"Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"37418:",
+               "CodeOverrides":[
+                  "47: : true",
+                  "27: : true",
+                  "60: : 1"
+               ]
+            },
+            "DevCode2":{
+               "CodeName":"55196:",
+               "CodeOverrides":[
+                  "12: : true",
+                  "6: : true",
+                  "4: : true",
+                  "9: : true",
+                  "2: : true",
+                  "8: : true",
+                  "1: : true",
+                  "7: : true",
+                  "0: : true",
+                  "3: : true",
+                  "11: : 0",
+                  "5: : 0"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":true,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY1"
+            ]
+         }
       },
-      "DevDetail": {
-        "bold": true,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY1"
-        ]
+      "KEY3":{
+         "DevName":{
+            "en":"Enable the internal/employee mode (is_employee)",
+            "pt":"Ativa o modo interno/de funcionário (is_employee)",
+            "es":"Activa el modo interno/de empleado (is_employee)",
+            "tr":"Dahili/Çalışan modunu etkinleştirir (is_employee)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"56474:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":true,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY4":{
+         "DevName":{
+            "en":"Place the \"heart\" icon in the bottom right corner, the \"Reels\" icon in the bottom center, and the \"Share\" icon in the top right corner",
+            "pt":"Coloque o ícone \"coração\" no canto inferior direito, o ícone \"Reels\" no centro inferior e o ícone \"Compartilhar\" no canto superior direito",
+            "es":"Coloca el ícono de \"corazón\" en la esquina inferior derecha, el ícono de \"Reels\" en el centro inferior y el ícono de \"Compartir\" en la esquina superior derecha",
+            "tr":"'Kalp\" simgesini sağ alt köşeye, \"Reels\" simgesini alt merkeze ve \"Paylaş\" simgesini sağ üst köşeye yerleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"47131:",
+               "CodeOverrides":[
+                  "8: : share",
+                  "3: : news",
+                  "2: : clips"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":true,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY5"
+            ]
+         }
+      },
+      "KEY5":{
+         "DevName":{
+            "en":"Place the \"heart\" icon in the bottom right corner, the \"Reels\" icon in the bottom center",
+            "pt":"Coloque o ícone \"coração\" no canto inferior direito, o ícone \"Reels\" no centro inferior",
+            "es":"Coloca el ícono de \"corazón\" en la esquina inferior derecha, el ícono de \"Reels\" en el centro inferior",
+            "tr":"'Kalp\" simgesini sağ alt köşeye, \"Reels\" simgesini alt merkeze yerleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"47131:",
+               "CodeOverrides":[
+                  "3: : news",
+                  "2: : clips"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY4"
+            ]
+         }
+      },
+      "KEY6":{
+         "DevName":{
+            "en":"Enable the ability to break to a new line while typing comments",
+            "pt":"Habilite a capacidade de quebrar para uma nova linha ao digitar comentários",
+            "es":"Habilite la capacidad de saltar a una nueva línea mientras escribe comentarios",
+            "tr":"Yorum yazarken yeni bir satıra geçme yeteneğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"59926:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY7":{
+         "DevName":{
+            "en":"Prevent emojis from being sent in the comments with a single tap",
+            "pt":"Impedir emojis de serem enviados nos comentários com um único toque",
+            "es":"Evita que los emojis se envíen en los comentarios con un solo toque",
+            "tr":"Yorumlarda emojilerin tek bir dokunuşla gönderilmesini devre dışı bırak"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"56046:",
+               "CodeOverrides":[
+                  "18: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY8"
+            ]
+         }
+      },
+      "KEY8":{
+         "DevName":{
+            "en":"Remove the emoji bar in the comments",
+            "pt":"Remova a barra de emojis nos comentários",
+            "es":"Elimine la barra de emojis en los comentarios",
+            "tr":"Yorumlardaki emoji çubuğunu kaldır"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"56046:",
+               "CodeOverrides":[
+                  "3: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY7"
+            ]
+         }
+      },
+      "KEY9":{
+         "DevName":{
+            "en":"Fix AD Blocker",
+            "pt":"Corrigir Bloqueador de Anúncios",
+            "es":"Arreglar Bloqueador de Anuncios",
+            "tr":"Reklam Engelleyiciyi Düzelt"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"42927:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode2":{
+               "CodeName":"48777:",
+               "CodeOverrides":[
+                  "0: : disabled"
+               ]
+            },
+            "DevCode3":{
+               "CodeName":"29475:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode4":{
+               "CodeName":"53887:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode5":{
+               "CodeName":"48862:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":true,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY10":{
+         "DevName":{
+            "en":"Fix the crash issue with the \"Save\" button (test 1) (If that does not work, try the other option)",
+            "pt":"Corrija o problema de falha relacionado ao botão \"Salvar\" (teste 1) (se isso não funcionar, tente a outra opção)",
+            "es":"Corrija el problema de bloqueo con el botón \"Guardar\" (prueba 1) (si esto no funciona, intente la otra opción)",
+            "tr":"'Kaydet\" düğmesi ile ilgili çökme sorununu düzelt (deneme 1) (eğer işe yaramazsa, diğer seçeneği deneyin)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"45238:",
+               "CodeOverrides":[
+                  "2: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY11",
+               "KEY36"
+            ]
+         }
+      },
+      "KEY11":{
+         "DevName":{
+            "en":"Fix the crash issue with the \"Save\" button (test 2) (If that does not work, try the other option)",
+            "pt":"Corrija o problema de falha relacionado ao botão \"Salvar\" (teste 2) (se isso não funcionar, tente a outra opção)",
+            "es":"Corrija el problema de bloqueo con el botón \"Guardar\" (prueba 2) (si esto no funciona, intente la otra opción)",
+            "tr":"'Kaydet\" düğmesi ile ilgili çökme sorununu düzelt (deneme 2) (eğer işe yaramazsa, diğer seçeneği deneyin)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"58599:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode2":{
+               "CodeName":"54930:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode3":{
+               "CodeName":"55704:",
+               "CodeOverrides":[
+                  "1: : false"
+               ]
+            },
+            "DevCode4":{
+               "CodeName":"52509:",
+               "CodeOverrides":[
+                  "0: : false",
+                  "1: : false",
+                  "3: : false",
+                  "5: : false"
+               ]
+            },
+            "DevCode5":{
+               "CodeName":"49466:",
+               "CodeOverrides":[
+                  "7: : false"
+               ]
+            },
+            "DevCode6":{
+               "CodeName":"51919:",
+               "CodeOverrides":[
+                  "5: : false",
+                  "2: : false",
+                  "3: : false",
+                  "4: : false"
+               ]
+            },
+            "DevCode7":{
+               "CodeName":"51407:",
+               "CodeOverrides":[
+                  "7: : false",
+                  "5: : false"
+               ]
+            },
+            "DevCode8":{
+               "CodeName":"47452:",
+               "CodeOverrides":[
+                  "2: : false"
+               ]
+            },
+            "DevCode9":{
+               "CodeName":"50066:",
+               "CodeOverrides":[
+                  "1: : false"
+               ]
+            },
+            "DevCode10":{
+               "CodeName":"54253:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode11":{
+               "CodeName":"56857:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode12":{
+               "CodeName":"45238:",
+               "CodeOverrides":[
+                  "8: : false",
+                  "3: : false",
+                  "7: : false",
+                  "2: : false",
+                  "0: : false",
+                  "10: : false",
+                  "4: : false",
+                  "6: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":true,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY10",
+               "KEY36"
+            ]
+         }
+      },
+      "KEY12":{
+         "DevName":{
+            "en":"Enable the ability to delete individual posts in carousel posts (a trash can icon will appear when editing a post)",
+            "pt":"Ative a capacidade de excluir publicações individuais em postagens de carrossel (um ícone de lixeira aparecerá ao editar uma publicação)",
+            "es":"Habilite la capacidad de eliminar publicaciones individuales en publicaciones de carrusel (aparecerá un icono de papelera al editar una publicación)",
+            "tr":"Kaydırmalı gönderilerde tek tek gönderi silme özelliğini etkinleştir (bir gönderiyi düzenlerken bir çöp kutusu simgesi görünecektir)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"38033:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY13":{
+         "DevName":{
+            "en":"Enable the ability to reply to stories using audio messages or a camera",
+            "pt":"Ative a capacidade de responder a histórias usando mensagens de áudio ou uma câmera",
+            "es":"Habilite la capacidad de responder a historias usando mensajes de audio o una cámara",
+            "tr":"Hikayelere sesli mesaj veya kamera kullanarak yanıt verme özelliğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"45145:",
+               "CodeOverrides":[
+                  "3: : true",
+                  "9: : true",
+                  "10: : true",
+                  "7: : true",
+                  "2: : true",
+                  "12: : true",
+                  "6: : true",
+                  "4: : true",
+                  "0: : true",
+                  "13: : true",
+                  "11: : true",
+                  "1: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY14":{
+         "DevName":{
+            "en":"Enable the ability to zoom in on stories using finger gestures",
+            "pt":"Ative a capacidade de aproximar histórias usando gestos com os dedos",
+            "es":"Active la capacidad de acercar historias usando gestos con los dedos",
+            "tr":"Parmak hareketlerini kullanarak hikayeleri yakınlaştırma yeteneğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"55260:",
+               "CodeOverrides":[
+                  "1: : true",
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY15":{
+         "DevName":{
+            "en":"Enable the ability to unlike a message by double-tapping it",
+            "pt":"Habilite a capacidade de desfazer o like de uma mensagem tocando duas vezes nela",
+            "es":"Habilite la capacidad de desgustar un mensaje tocando dos veces",
+            "tr":"Mesaja çift dokunarak beğenmeme özelliğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"58317:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY16":{
+         "DevName":{
+            "en":"Enable the automatic playback of the next voice message when the current voice message ends",
+            "pt":"Habilite a reprodução automática da próxima mensagem de voz quando a mensagem de voz atual terminar",
+            "es":"Habilite la reproducción automática del siguiente mensaje de voz cuando termine el mensaje de voz actual",
+            "tr":"Mevcut sesli mesaj sona erdiğinde sonraki sesli mesajın otomatik olarak oynatılmasını etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"58859:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY17":{
+         "DevName":{
+            "en":"Enable the quick scroll to bottom button in messages",
+            "pt":"Ative o botão de rolagem rápida para baixo nas mensagens",
+            "es":"Active el botón de desplazamiento rápido hacia abajo en los mensajes",
+            "tr":"Mesajlarda aşağı doğru hızlı kaydırma düğmesini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"49312:",
+               "CodeOverrides":[
+                  "0: : true",
+                  "1: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY18":{
+         "DevName":{
+            "en":"Remove \"Follow\" button in Reels",
+            "pt":"Remove o botão \"Seguir\" nos Reels",
+            "es":"Eliminar el botón \"Seguir\" en Reels",
+            "tr":"Reels'lerde \"Takip Et\" düğmesini kaldır"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"52814:",
+               "CodeOverrides":[
+                  "12: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY19":{
+         "DevName":{
+            "en":"Show the Reels caption in the comment section",
+            "pt":"Mostre a legenda do Reels na seção de comentários",
+            "es":"Muestre la leyenda de Reels en la sección de comentarios",
+            "tr":"Reels'in açıklamasını/başlığını yorumlar bölümünde göster"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"59170:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY20":{
+         "DevName":{
+            "en":"If the \"Copy', \"Translate', and \"Menu\" buttons are not visible in the comments, enable this option",
+            "pt":"Se os botões \"Copiar', \"Traduzir\" e \"Menu\" não estiverem visíveis nos comentários, ative essa opção",
+            "es":"Si los botones \"Copiar', \"Traducir\" y \"Menú\" no son visibles en los comentarios, active esta opción",
+            "tr":"Yorumlarda \"Kopyala', \"Çevir\" ve \"Menü\" düğmeleri görünmüyorsa bu seçeneği etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"57257:",
+               "CodeOverrides":[
+                  "0: : false",
+                  "1: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY21":{
+         "DevName":{
+            "en":"Enable the \"See translation\" in comments",
+            "pt":"Habilite a \"Ver tradução\" nos comentários",
+            "es":"Habilitar la \"Ver traducción\" en los comentarios",
+            "tr":"Yorumlarda \"Çevirisine bak\" düğmesini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"51191:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY22"
+            ]
+         }
+      },
+      "KEY22":{
+         "DevName":{
+            "en":"Disable the \"See translation\" in comments",
+            "pt":"Desative o \"Ver tradução\" nos comentários",
+            "es":"Desactivar la \"Ver traducción\" en los comentarios",
+            "tr":"Yorumlarda \"Çevirisine bak\" düğmesini devre dışı bırak"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"51191:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY21"
+            ]
+         }
+      },
+      "KEY23":{
+         "DevName":{
+            "en":"Enable the ability to pin highlighted stories",
+            "pt":"Habilite a capacidade de fixar histórias destacadas",
+            "es":"Habilite la capacidad de fijar historias destacadas",
+            "tr":"Öne çıkarılan hikayeleri sabitleme yeteneğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"27176:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY24":{
+         "DevName":{
+            "en":"Enable the \"See shared activity\" menu (to view, visit a profile, tap the three dots)",
+            "pt":"Habilite o menu \"Ver atividade compartilhada\" (para ver, visitar um perfil, toque nos três pontos)",
+            "es":"Active el menú \"Ver actividad compartida\" (para ver, visitar un perfil, toca en los tres puntos)",
+            "tr":"\"Paylaşılan hareketleri gör\" menüsünü etkinleştir (görmek için bir profili ziyaret edin, sağ üstteki üç noktaya dokunun)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"59115:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":true,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY25":{
+         "DevName":{
+            "en":"Enable new Instagram settings design",
+            "pt":"Ativar o novo design das configurações do Instagram",
+            "es":"Habilitar el nuevo diseño de la configuración de Instagram",
+            "tr":"Yeni Instagram ayarlar tasarımını etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"51538:",
+               "CodeOverrides":[
+                  "3: : true",
+                  "1: : true",
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY26"
+            ]
+         }
+      },
+      "KEY26":{
+         "DevName":{
+            "en":"Disable the new Instagram settings design",
+            "pt":"Desabilitar o novo design das configurações do Instagram",
+            "es":"Deshabilitar el nuevo diseño de la configuración de Instagram",
+            "tr":"Yeni Instagram ayarlar tasarımını devre dışı bırak"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"51538:",
+               "CodeOverrides":[
+                  "3: : false",
+                  "1: : false",
+                  "0: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY25"
+            ]
+         }
+      },
+      "KEY27":{
+         "DevName":{
+            "en":"Add a \"Create\" button to the story (converts your story to Reels)",
+            "pt":"Adicionar um botão \"Criar\" à história (converte sua história em Reels)",
+            "es":"Añadir un botón \"Crear\" a la historia (convierte tu historia en Reels)",
+            "tr":"Hikayeye \"Oluştur\" düğmesi ekle (hikayenizi Reels'e dönüştürür)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"50790:",
+               "CodeOverrides":[
+                  "1: : true",
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY28"
+            ]
+         }
+      },
+      "KEY28":{
+         "DevName":{
+            "en":"Remove the \"Create\" button from the story screen",
+            "pt":"Remova o botão \"Criar\" da tela da história",
+            "es":"Elimina el botón \"Crear\" de la pantalla de la historia",
+            "tr":"Hikaye ekranından \"Oluştur\" düğmesini kaldır"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"50790:",
+               "CodeOverrides":[
+                  "1: : false",
+                  "0: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY27"
+            ]
+         }
+      },
+      "KEY29":{
+         "DevName":{
+            "en":"Crop the Reels height (this will prevent the Reels on your home screen from taking up your entire screen)",
+            "pt":"Corte o tamanho dos Reels (isso impedirá que os Reels em sua tela inicial ocupem todo o seu espaço)",
+            "es":"Recorte el tamaño de los Reels (esto evitará que los Reels en su pantalla de inicio ocupen toda la pantalla)",
+            "tr":"Reels boyutunu kırp (bu, ana ekranınızdaki Reels'lerin uzunluğunu kırparak tüm ekranınızı kaplamasını engelleyecektir)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"53132:",
+               "CodeOverrides":[
+                  "2: : true",
+                  "1: : true",
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY30":{
+         "DevName":{
+            "en":"Enable the new Instagram chat features (forward messages, themes, vanish mode, animated messages, emoji reactions, selfie stickers)",
+            "pt":"Ative os novos recursos de bate-papo do Instagram (encaminhar mensagens, temas, modo de vanish, mensagens animadas, reações com emojis, adesivos de selfie)",
+            "es":"Active las nuevas funciones de chat de Instagram (reenviar mensajes, temas, modo de vanish, mensajes animados, reacciones con emojis, pegatinas de selfie)",
+            "tr":"Yeni Instagram sohbet özelliklerini (mesajları iletme, temalar, vanish modu, animasyonlu mesajlar, emojilerle tepki verme, selfie çıkartmaları) etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"59139:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            },
+            "DevCode2":{
+               "CodeName":"26235:",
+               "CodeOverrides":[
+                  "12: : true",
+                  "11: : true",
+                  "9: : true",
+                  "7: : true",
+                  "5: : true",
+                  "3: : true",
+                  "2: : false",
+                  "1: : false",
+                  "0: : true",
+                  "4: : true",
+                  "10: : 1,2,3,4",
+                  "6: : 1,3,4,2"
+               ]
+            },
+            "DevCode3":{
+               "CodeName":"26612:",
+               "CodeOverrides":[
+                  "15: : true",
+                  "14: : true",
+                  "13: : true",
+                  "12: : true",
+                  "11: : true",
+                  "10: : true",
+                  "9: : true",
+                  "8: : true",
+                  "7: : true",
+                  "6: : true",
+                  "5: : true",
+                  "4: : true",
+                  "1: : true",
+                  "0: : true",
+                  "16: : 20"
+               ]
+            },
+            "DevCode4":{
+               "CodeName":"26889:",
+               "CodeOverrides":[
+                  "8: : true",
+                  "7: : true",
+                  "4: : true",
+                  "2: : true",
+                  "1: : true",
+                  "6: : true"
+               ]
+            },
+            "DevCode5":{
+               "CodeName":"34422:",
+               "CodeOverrides":[
+                  "22: : true",
+                  "0: : true"
+               ]
+            },
+            "DevCode6":{
+               "CodeName":"33582:",
+               "CodeOverrides":[
+                  "0: : true",
+                  "2: : true",
+                  "1: : true"
+               ]
+            },
+            "DevCode7":{
+               "CodeName":"27506:",
+               "CodeOverrides":[
+                  "15: : true",
+                  "14: : true",
+                  "13: : true",
+                  "10: : true",
+                  "4: : true",
+                  "2: : true",
+                  "12: : true",
+                  "8: : true",
+                  "20: : true",
+                  "11: : true"
+               ]
+            },
+            "DevCode8":{
+               "CodeName":"24692:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            },
+            "DevCode9":{
+               "CodeName":"39405:",
+               "CodeOverrides":[
+                  "8: : true",
+                  "2: : true",
+                  "1: : true"
+               ]
+            },
+            "DevCode10":{
+               "CodeName":"28860:",
+               "CodeOverrides":[
+                  "8: : true",
+                  "4: : true",
+                  "3: : true",
+                  "9: : true"
+               ]
+            },
+            "DevCode11":{
+               "CodeName":"44758:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            },
+            "DevCode12":{
+               "CodeName":"32207:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            },
+            "DevCode13":{
+               "CodeName":"35544:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            },
+            "DevCode14":{
+               "CodeName":"32372:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            },
+            "DevCode15":{
+               "CodeName":"43486:",
+               "CodeOverrides":[
+                  "3: : false",
+                  "2: : false",
+                  "1: : false",
+                  "0: : false"
+               ]
+            },
+            "DevCode16":{
+               "CodeName":"24156:",
+               "CodeOverrides":[
+                  "14: : true",
+                  "12: : true",
+                  "10: : true",
+                  "8: : true",
+                  "7: : true",
+                  "5: : true"
+               ]
+            },
+            "DevCode17":{
+               "CodeName":"56088:",
+               "CodeOverrides":[
+                  "9: : true",
+                  "7: : true",
+                  "6: : true",
+                  "5: : true",
+                  "1: : true",
+                  "0: : true",
+                  "2: : true",
+                  "10: : true",
+                  "14: : true",
+                  "11: : true",
+                  "19: : true",
+                  "4: : true",
+                  "17: : true",
+                  "12: : true",
+                  "13: : true",
+                  "8: : true",
+                  "3: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY31"
+            ]
+         }
+      },
+      "KEY31":{
+         "DevName":{
+            "en":"Enable the old chat interface",
+            "pt":"Habilitar a antiga interface de bate-papo",
+            "es":"Habilitar la antigua interfaz de chat",
+            "tr":"Eski sohbet arayüzünü etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"59139:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode2":{
+               "CodeName":"26235:",
+               "CodeOverrides":[
+                  "12: : false",
+                  "11: : false",
+                  "9: : false",
+                  "7: : false",
+                  "5: : false",
+                  "3: : false",
+                  "2: : false",
+                  "1: : false",
+                  "0: : false",
+                  "4: : false",
+                  "10: : 1,2,3,4",
+                  "6: : 1,3,4,2"
+               ]
+            },
+            "DevCode3":{
+               "CodeName":"26612:",
+               "CodeOverrides":[
+                  "15: : false",
+                  "14: : false",
+                  "13: : false",
+                  "12: : false",
+                  "11: : false",
+                  "10: : false",
+                  "9: : false",
+                  "8: : false",
+                  "7: : false",
+                  "6: : false",
+                  "5: : false",
+                  "4: : false",
+                  "1: : false",
+                  "0: : false",
+                  "16: : 20"
+               ]
+            },
+            "DevCode4":{
+               "CodeName":"26889:",
+               "CodeOverrides":[
+                  "8: : false",
+                  "7: : false",
+                  "4: : false",
+                  "2: : false",
+                  "1: : false",
+                  "6: : false"
+               ]
+            },
+            "DevCode5":{
+               "CodeName":"34422:",
+               "CodeOverrides":[
+                  "22: : false",
+                  "0: : false"
+               ]
+            },
+            "DevCode6":{
+               "CodeName":"33582:",
+               "CodeOverrides":[
+                  "0: : false",
+                  "2: : false",
+                  "1: : false"
+               ]
+            },
+            "DevCode7":{
+               "CodeName":"27506:",
+               "CodeOverrides":[
+                  "15: : false",
+                  "14: : false",
+                  "13: : false",
+                  "10: : false",
+                  "4: : false",
+                  "2: : false",
+                  "12: : false",
+                  "8: : false",
+                  "20: : false",
+                  "11: : false"
+               ]
+            },
+            "DevCode8":{
+               "CodeName":"24692:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode9":{
+               "CodeName":"39405:",
+               "CodeOverrides":[
+                  "8: : false",
+                  "2: : false",
+                  "1: : false"
+               ]
+            },
+            "DevCode10":{
+               "CodeName":"28860:",
+               "CodeOverrides":[
+                  "8: : false",
+                  "4: : false",
+                  "3: : false",
+                  "9: : false"
+               ]
+            },
+            "DevCode11":{
+               "CodeName":"44758:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode12":{
+               "CodeName":"32207:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode13":{
+               "CodeName":"35544:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode14":{
+               "CodeName":"32372:",
+               "CodeOverrides":[
+                  "0: : false"
+               ]
+            },
+            "DevCode15":{
+               "CodeName":"43486:",
+               "CodeOverrides":[
+                  "3: : false",
+                  "2: : false",
+                  "1: : false",
+                  "0: : false"
+               ]
+            },
+            "DevCode16":{
+               "CodeName":"24156:",
+               "CodeOverrides":[
+                  "14: : false",
+                  "12: : false",
+                  "10: : false",
+                  "8: : false",
+                  "7: : false",
+                  "5: : false"
+               ]
+            },
+            "DevCode17":{
+               "CodeName":"56088:",
+               "CodeOverrides":[
+                  "9: : false",
+                  "7: : false",
+                  "6: : false",
+                  "5: : false",
+                  "1: : false",
+                  "0: : false",
+                  "2: : false",
+                  "10: : false",
+                  "14: : false",
+                  "11: : false",
+                  "19: : false",
+                  "4: : false",
+                  "17: : false",
+                  "12: : false",
+                  "13: : false",
+                  "8: : false",
+                  "3: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY30"
+            ]
+         }
+      },
+      "KEY32":{
+         "DevName":{
+            "en":"If the app crashes when opening chats, enable this option",
+            "pt":"Se o aplicativo travar ao abrir bate-papos, habilite esta opção",
+            "es":"Si la aplicación se bloquea al abrir chats, habilite esta opción",
+            "tr":"DM sohbetlerini açarken uygulama çöküyorsa bu seçeneği etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"50983:",
+               "CodeOverrides":[
+                  "3: : true",
+                  "2: : true",
+                  "4: : true",
+                  "5: : true",
+                  "8: : false",
+                  "0: : false",
+                  "7: : false",
+                  "1: : false",
+                  "6: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY33":{
+         "DevName":{
+            "en":"Open links with the system browser and disable the in-app browser",
+            "pt":"Abrir links com o navegador do sistema e desativar o navegador dentro do aplicativo",
+            "es":"Abrir enlaces con el navegador del sistema y desactivar el navegador de la aplicación",
+            "tr":"Bağlantıları sistem tarayıcısıyla aç ve uygulama içi tarayıcıyı devre dışı bırak"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"39443:",
+               "CodeOverrides":[
+                  "6: : true",
+                  "7: : true",
+                  "20: : true",
+                  "8: : true",
+                  "3: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY34":{
+         "DevName":{
+            "en":"Enable the \"Add to story\"option to share comments in your posts to your story",
+            "pt":"Ative a opção \"Adicionar à história\" para compartilhar comentários em suas postagens na sua história.",
+            "es":"Activa la opción \"Agregar a historia\" para compartir comentarios en tus publicaciones en tu historia.",
+            "tr":"Gönderilerinizdeki yorumları hikayenizde paylaşmak için \"Hikayeye ekle\" seçeneğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"61864:",
+               "CodeOverrides":[
+                  "2: : true",
+                  "0: : true",
+                  "1: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY35":{
+         "DevName":{
+            "en":"Enable the filter on the Explore page",
+            "pt":"Ative o filtro na página Explorar",
+            "es":"Activa el filtro en la página de Explorar",
+            "tr":"Keşfet sayfasındaki filtreleri etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"57426:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY36":{
+         "DevName":{
+            "en":"Fix the crash issue with the \"Save\" button (test 3) (If that does not work, try the other option)",
+            "pt":"Corrija o problema de falha relacionado ao botão \"Salvar\" (teste 3) (se isso não funcionar, tente a outra opção)",
+            "es":"Corrija el problema de bloqueo con el botón \"Guardar\" (prueba 3) (si esto no funciona, intente la otra opción)",
+            "tr":"'Kaydet\" düğmesi ile ilgili çökme sorununu düzelt (deneme 3) (eğer işe yaramazsa, diğer seçeneği deneyin)"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"45238:",
+               "CodeOverrides":[
+                  "2: : false",
+                  "3: : false",
+                  "8: : false",
+                  "0: : false",
+                  "6: : false",
+                  "10: : false",
+                  "7: : false",
+                  "4: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               "KEY10",
+               "KEY11"
+            ]
+         }
+      },
+      "KEY37":{
+         "DevName":{
+            "en":"Enable touch to pause or play Reels",
+            "pt":"Ative o toque para pausar ou reproduzir Reels",
+            "es":"Activa el toque para pausar o reproducir Reels",
+            "tr":"Reels'leri dokunarak duraklatma veya oynatma özelliğini etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"64066:",
+               "CodeOverrides":[
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY38":{
+         "DevName":{
+            "en":"Enable new design of adding photos to story",
+            "pt":"Ative o novo design para adicionar fotos à história",
+            "es":"Activa el nuevo diseño para agregar fotos a la historia",
+            "tr":"Hikayeye fotoğraf eklemenin yeni tasarımını etkinleştir"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"56372:",
+               "CodeOverrides":[
+                  "4: : true",
+                  "2: : true",
+                  "1: : true",
+                  "0: : true"
+               ]
+            },
+            "DevCode2":{
+               "CodeName":"56875:",
+               "CodeOverrides":[
+                  "2: : true",
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
+      },
+      "KEY39":{
+         "DevName":{
+            "en":"If the Reels title or Reels videos don't fit on your screen, activate this option",
+            "pt":"Se o título do Reels ou os vídeos do Reels não cabem na sua tela, ative esta opção",
+            "es":"Si el título de Reels o los videos de Reels no caben en tu pantalla, activa esta opción",
+            "tr":"Reels başlığı veya Reels videoları ekranınıza sığmıyorsa bu seçeneği etkinleştiriniz"
+         },
+         "DevCodes":{
+            "DevCode1":{
+               "CodeName":"47643:",
+               "CodeOverrides":[
+                  "1: : false",
+                  "2: : false",
+                  "3: : false"
+               ]
+            }
+         },
+         "DevDetail":{
+            "bold":false,
+            "italic":false,
+            "strikethrough":false,
+            "crtcl":false,
+            "disabled":false,
+            "rcmnd":false,
+            "DisabledDevs":[
+               
+            ]
+         }
       }
-    },
-    "KEY3": {
-      "DevName": {
-        "en": "Enable the internal/employee mode (is_employee)",
-        "pt": "Ativa o modo interno/de funcionário (is_employee)",
-        "es": "Activa el modo interno/de empleado (is_employee)",
-        "tr": "Dahili/Çalışan modunu etkinleştirir (is_employee)"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "56474:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": true,
-        "strikethrough": true,
-        "crtcl": false,
-        "disabled": true,
-        "rcmnd": false,
-        "DisabledDevs": []
+   },
+   "AeroOthers":{
+      "last":"02/17/2024",
+      "aerover":"369210522",
+      "betadev":{
+         "betakey":true,
+         "betaver":"371611230"
       }
-    },
-    "KEY4": {
-      "DevName": {
-        "en": "Place the \"heart\" icon in the bottom right corner, the \"Reels\" icon in the bottom center, and the \"Share\" icon in the top right corner",
-        "pt": "Coloque o ícone \"coração\" no canto inferior direito, o ícone \"Reels\" no centro inferior e o ícone \"Compartilhar\" no canto superior direito",
-        "es": "Coloca el ícono de \"corazón\" en la esquina inferior derecha, el ícono de \"Reels\" en el centro inferior y el ícono de \"Compartir\" en la esquina superior derecha",
-        "tr": "'Kalp\" simgesini sağ alt köşeye, \"Reels\" simgesini alt merkeze ve \"Paylaş\" simgesini sağ üst köşeye yerleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "47131:",
-          "CodeOverrides": [
-            "8: : share",
-            "3: : news",
-            "2: : clips"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": true,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY5"
-        ]
-      }
-    },
-    "KEY5": {
-      "DevName": {
-        "en": "Place the \"heart\" icon in the bottom right corner, the \"Reels\" icon in the bottom center",
-        "pt": "Coloque o ícone \"coração\" no canto inferior direito, o ícone \"Reels\" no centro inferior",
-        "es": "Coloca el ícono de \"corazón\" en la esquina inferior derecha, el ícono de \"Reels\" en el centro inferior",
-        "tr": "'Kalp\" simgesini sağ alt köşeye, \"Reels\" simgesini alt merkeze yerleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "47131:",
-          "CodeOverrides": [
-            "3: : news",
-            "2: : clips"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY4"
-        ]
-      }
-    },
-    "KEY6": {
-      "DevName": {
-        "en": "Enable the ability to break to a new line while typing comments",
-        "pt": "Habilite a capacidade de quebrar para uma nova linha ao digitar comentários",
-        "es": "Habilite la capacidad de saltar a una nueva línea mientras escribe comentarios",
-        "tr": "Yorum yazarken yeni bir satıra geçme yeteneğini etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "59926:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY7": {
-      "DevName": {
-        "en": "Prevent emojis from being sent in the comments with a single tap",
-        "pt": "Impedir emojis de serem enviados nos comentários com um único toque",
-        "es": "Evita que los emojis se envíen en los comentarios con un solo toque",
-        "tr": "Yorumlarda emojilerin tek bir dokunuşla gönderilmesini devre dışı bırak"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "56046:",
-          "CodeOverrides": [
-            "18: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY8"
-        ]
-      }
-    },
-    "KEY8": {
-      "DevName": {
-        "en": "Remove the emoji bar in the comments",
-        "pt": "Remova a barra de emojis nos comentários",
-        "es": "Elimine la barra de emojis en los comentarios",
-        "tr": "Yorumlardaki emoji çubuğunu kaldır"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "56046:",
-          "CodeOverrides": [
-            "3: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY7"
-        ]
-      }
-    },
-    "KEY9": {
-      "DevName": {
-        "en": "Fix AD Blocker",
-        "pt": "Corrigir Bloqueador de Anúncios",
-        "es": "Arreglar Bloqueador de Anuncios",
-        "tr": "Reklam Engelleyiciyi Düzelt"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "42927:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode2": {
-          "CodeName": "48777:",
-          "CodeOverrides": [
-            "0: : disabled"
-          ]
-        },
-        "DevCode3": {
-          "CodeName": "29475:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode4": {
-          "CodeName": "53887:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": true,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY10": {
-      "DevName": {
-        "en": "Fix the crash issue with the \"Save\" button (test 1) (If that does not work, try the other option)",
-        "pt": "Corrija o problema de falha relacionado ao botão \"Salvar\" (teste 1) (se isso não funcionar, tente a outra opção)",
-        "es": "Corrija el problema de bloqueo con el botón \"Guardar\" (prueba 1) (si esto no funciona, intente la otra opción)",
-        "tr": "'Kaydet\" düğmesi ile ilgili çökme sorununu düzelt (deneme 1) (eğer işe yaramazsa, diğer seçeneği deneyin)"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "45238:",
-          "CodeOverrides": [
-            "2: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY11"
-        ]
-      }
-    },
-    "KEY11": {
-      "DevName": {
-        "en": "Fix the crash issue with the \"Save\" button (test 2) (If that does not work, try the other option)",
-        "pt": "Corrija o problema de falha relacionado ao botão \"Salvar\" (teste 2) (se isso não funcionar, tente a outra opção)",
-        "es": "Corrija el problema de bloqueo con el botón \"Guardar\" (prueba 2) (si esto no funciona, intente la otra opción)",
-        "tr": "'Kaydet\" düğmesi ile ilgili çökme sorununu düzelt (deneme 2) (eğer işe yaramazsa, diğer seçeneği deneyin)"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "58599:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode2": {
-          "CodeName": "54930:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode3": {
-          "CodeName": "55704:",
-          "CodeOverrides": [
-            "1: : false"
-          ]
-        },
-        "DevCode4": {
-          "CodeName": "52509:",
-          "CodeOverrides": [
-            "0: : false",
-            "1: : false",
-            "3: : false",
-            "5: : false"
-          ]
-        },
-        "DevCode5": {
-          "CodeName": "49466:",
-          "CodeOverrides": [
-            "7: : false"
-          ]
-        },
-        "DevCode6": {
-          "CodeName": "51919:",
-          "CodeOverrides": [
-            "5: : false",
-            "2: : false",
-            "3: : false",
-            "4: : false"
-          ]
-        },
-        "DevCode7": {
-          "CodeName": "51407:",
-          "CodeOverrides": [
-            "7: : false",
-            "5: : false"
-          ]
-        },
-        "DevCode8": {
-          "CodeName": "47452:",
-          "CodeOverrides": [
-            "2: : false"
-          ]
-        },
-        "DevCode9": {
-          "CodeName": "50066:",
-          "CodeOverrides": [
-            "1: : false"
-          ]
-        },
-        "DevCode10": {
-          "CodeName": "54253:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode11": {
-          "CodeName": "56857:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode12": {
-          "CodeName": "45238:",
-          "CodeOverrides": [
-            "8: : false",
-            "3: : false",
-            "7: : false",
-            "2: : false",
-            "0: : false",
-            "10: : false",
-            "4: : false",
-            "6: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": true,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY10"
-        ]
-      }
-    },
-    "KEY12": {
-      "DevName": {
-        "en": "Enable the ability to delete individual posts in carousel posts (a trash can icon will appear when editing a post)",
-        "pt": "Ative a capacidade de excluir publicações individuais em postagens de carrossel (um ícone de lixeira aparecerá ao editar uma publicação)",
-        "es": "Habilite la capacidad de eliminar publicaciones individuales en publicaciones de carrusel (aparecerá un icono de papelera al editar una publicación)",
-        "tr": "Kaydırmalı gönderilerde tek tek gönderi silme özelliğini etkinleştir (bir gönderiyi düzenlerken bir çöp kutusu simgesi görünecektir)"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "38033:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY13": {
-      "DevName": {
-        "en": "Enable the ability to reply to stories using audio messages or a camera",
-        "pt": "Ative a capacidade de responder a histórias usando mensagens de áudio ou uma câmera",
-        "es": "Habilite la capacidad de responder a historias usando mensajes de audio o una cámara",
-        "tr": "Hikayelere sesli mesaj veya kamera kullanarak yanıt verme özelliğini etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "45145:",
-          "CodeOverrides": [
-            "3: : true",
-            "9: : true",
-            "10: : true",
-            "7: : true",
-            "2: : true",
-            "12: : true",
-            "6: : true",
-            "4: : true",
-            "0: : true",
-            "13: : true",
-            "11: : true",
-            "1: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY14": {
-      "DevName": {
-        "en": "Enable the ability to zoom in on stories using finger gestures",
-        "pt": "Ative a capacidade de aproximar histórias usando gestos com os dedos",
-        "es": "Active la capacidad de acercar historias usando gestos con los dedos",
-        "tr": "Parmak hareketlerini kullanarak hikayeleri yakınlaştırma yeteneğini etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "55260:",
-          "CodeOverrides": [
-            "1: : true",
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY15": {
-      "DevName": {
-        "en": "Enable the ability to unlike a message by double-tapping it",
-        "pt": "Habilite a capacidade de desfazer o like de uma mensagem tocando duas vezes nela",
-        "es": "Habilite la capacidad de desgustar un mensaje tocando dos veces",
-        "tr": "Mesaja çift dokunarak beğenmeme özelliğini etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "58317:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": true,
-        "DisabledDevs": []
-      }
-    },
-    "KEY16": {
-      "DevName": {
-        "en": "Enable the automatic playback of the next voice message when the current voice message ends",
-        "pt": "Habilite a reprodução automática da próxima mensagem de voz quando a mensagem de voz atual terminar",
-        "es": "Habilite la reproducción automática del siguiente mensaje de voz cuando termine el mensaje de voz actual",
-        "tr": "Mevcut sesli mesaj sona erdiğinde sonraki sesli mesajın otomatik olarak oynatılmasını etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "58859:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY17": {
-      "DevName": {
-        "en": "Enable the quick scroll to bottom button in messages",
-        "pt": "Ative o botão de rolagem rápida para baixo nas mensagens",
-        "es": "Active el botón de desplazamiento rápido hacia abajo en los mensajes",
-        "tr": "Mesajlarda aşağı doğru hızlı kaydırma düğmesini etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "49312:",
-          "CodeOverrides": [
-            "0: : true",
-            "1: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": true,
-        "strikethrough": true,
-        "crtcl": false,
-        "disabled": true,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY18": {
-      "DevName": {
-        "en": "Remove \"Follow\" button in Reels",
-        "pt": "Remove o botão \"Seguir\" nos Reels",
-        "es": "Eliminar el botón \"Seguir\" en Reels",
-        "tr": "Reels'lerde \"Takip Et\" düğmesini kaldır"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "52814:",
-          "CodeOverrides": [
-            "12: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY19": {
-      "DevName": {
-        "en": "Show the Reels caption in the comment section",
-        "pt": "Mostre a legenda do Reels na seção de comentários",
-        "es": "Muestre la leyenda de Reels en la sección de comentarios",
-        "tr": "Reels'in açıklamasını/başlığını yorumlar bölümünde göster"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "59170:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY20": {
-      "DevName": {
-        "en": "If the \"Copy', \"Translate', and \"Menu\" buttons are not visible in the comments, enable this option",
-        "pt": "Se os botões \"Copiar', \"Traduzir\" e \"Menu\" não estiverem visíveis nos comentários, ative essa opção",
-        "es": "Si los botones \"Copiar', \"Traducir\" y \"Menú\" no son visibles en los comentarios, active esta opción",
-        "tr": "Yorumlarda \"Kopyala', \"Çevir\" ve \"Menü\" düğmeleri görünmüyorsa bu seçeneği etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "57257:",
-          "CodeOverrides": [
-            "0: : false",
-            "1: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY21": {
-      "DevName": {
-        "en": "Enable the \"See translation\" in comments",
-        "pt": "Habilite a \"Ver tradução\" nos comentários",
-        "es": "Habilitar la \"Ver traducción\" en los comentarios",
-        "tr": "Yorumlarda \"Çevirisine bak\" düğmesini etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "51191:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY22"
-        ]
-      }
-    },
-    "KEY22": {
-      "DevName": {
-        "en": "Disable the \"See translation\" in comments",
-        "pt": "Desative o \"Ver tradução\" nos comentários",
-        "es": "Desactivar la \"Ver traducción\" en los comentarios",
-        "tr": "Yorumlarda \"Çevirisine bak\" düğmesini devre dışı bırak"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "51191:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY21"
-        ]
-      }
-    },
-    "KEY23": {
-      "DevName": {
-        "en": "Enable the ability to pin highlighted stories",
-        "pt": "Habilite a capacidade de fixar histórias destacadas",
-        "es": "Habilite la capacidad de fijar historias destacadas",
-        "tr": "Öne çıkarılan hikayeleri sabitleme yeteneğini etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "27176:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY24": {
-      "DevName": {
-        "en": "Enable the \"See shared activity\" menu (to view, visit a profile, tap the three dots)",
-        "pt": "Habilite o menu \"Ver atividade compartilhada\" (para ver, visitar um perfil, toque nos três pontos)",
-        "es": "Active el menú \"Ver actividad compartida\" (para ver, visitar un perfil, toca en los tres puntos)",
-        "tr": "\"Paylaşılan hareketleri gör\" menüsünü etkinleştir (görmek için bir profili ziyaret edin, sağ üstteki üç noktaya dokunun)"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "59115:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": true,
-        "DisabledDevs": []
-      }
-    },
-    "KEY25": {
-      "DevName": {
-        "en": "Enable new Instagram settings design",
-        "pt": "Ativar o novo design das configurações do Instagram",
-        "es": "Habilitar el nuevo diseño de la configuración de Instagram",
-        "tr": "Yeni Instagram ayarlar tasarımını etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "51538:",
-          "CodeOverrides": [
-            "3: : true",
-            "1: : true",
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY26"
-        ]
-      }
-    },
-    "KEY26": {
-      "DevName": {
-        "en": "Disable the new Instagram settings design",
-        "pt": "Desabilitar o novo design das configurações do Instagram",
-        "es": "Deshabilitar el nuevo diseño de la configuración de Instagram",
-        "tr": "Yeni Instagram ayarlar tasarımını devre dışı bırak"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "51538:",
-          "CodeOverrides": [
-            "3: : false",
-            "1: : false",
-            "0: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY25"
-        ]
-      }
-    },
-    "KEY27": {
-      "DevName": {
-        "en": "Add a \"Create\" button to the story (converts your story to Reels)",
-        "pt": "Adicionar um botão \"Criar\" à história (converte sua história em Reels)",
-        "es": "Añadir un botón \"Crear\" a la historia (convierte tu historia en Reels)",
-        "tr": "Hikayeye \"Oluştur\" düğmesi ekle (hikayenizi Reels'e dönüştürür)"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "50790:",
-          "CodeOverrides": [
-            "1: : true",
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY28"
-        ]
-      }
-    },
-    "KEY28": {
-      "DevName": {
-        "en": "Remove the \"Create\" button from the story screen",
-        "pt": "Remova o botão \"Criar\" da tela da história",
-        "es": "Elimina el botón \"Crear\" de la pantalla de la historia",
-        "tr": "Hikaye ekranından \"Oluştur\" düğmesini kaldır"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "50790:",
-          "CodeOverrides": [
-            "1: : false",
-            "0: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY27"
-        ]
-      }
-    },
-    "KEY29": {
-      "DevName": {
-        "en": "Crop the Reels height (this will prevent the Reels on your home screen from taking up your entire screen)",
-        "pt": "Corte o tamanho dos Reels (isso impedirá que os Reels em sua tela inicial ocupem todo o seu espaço)",
-        "es": "Recorte el tamaño de los Reels (esto evitará que los Reels en su pantalla de inicio ocupen toda la pantalla)",
-        "tr": "Reels boyutunu kırp (bu, ana ekranınızdaki Reels'lerin uzunluğunu kırparak tüm ekranınızı kaplamasını engelleyecektir)"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "53132:",
-          "CodeOverrides": [
-            "2: : true",
-            "1: : true",
-            "0: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    },
-    "KEY30": {
-      "DevName": {
-        "en": "Enable the new Instagram chat features (forward messages, themes, vanish mode, animated messages, emoji reactions, selfie stickers)",
-        "pt": "Ative os novos recursos de bate-papo do Instagram (encaminhar mensagens, temas, modo de vanish, mensagens animadas, reações com emojis, adesivos de selfie)",
-        "es": "Active las nuevas funciones de chat de Instagram (reenviar mensajes, temas, modo de vanish, mensajes animados, reacciones con emojis, pegatinas de selfie)",
-        "tr": "Yeni Instagram sohbet özelliklerini (mesajları iletme, temalar, vanish modu, animasyonlu mesajlar, emojilerle tepki verme, selfie çıkartmaları) etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "59139:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        },
-        "DevCode2": {
-          "CodeName": "26235:",
-          "CodeOverrides": [
-            "12: : true",
-            "11: : true",
-            "9: : true",
-            "7: : true",
-            "5: : true",
-            "3: : true",
-            "2: : false",
-            "1: : false",
-            "0: : true",
-            "4: : true",
-            "10: : 1,2,3,4",
-            "6: : 1,3,4,2"
-          ]
-        },
-        "DevCode3": {
-          "CodeName": "26612:",
-          "CodeOverrides": [
-            "15: : true",
-            "14: : true",
-            "13: : true",
-            "12: : true",
-            "11: : true",
-            "10: : true",
-            "9: : true",
-            "8: : true",
-            "7: : true",
-            "6: : true",
-            "5: : true",
-            "4: : true",
-            "1: : true",
-            "0: : true",
-            "16: : 20"
-          ]
-        },
-        "DevCode4": {
-          "CodeName": "26889:",
-          "CodeOverrides": [
-            "8: : true",
-            "7: : true",
-            "4: : true",
-            "2: : true",
-            "1: : true",
-            "6: : true"
-          ]
-        },
-        "DevCode5": {
-          "CodeName": "34422:",
-          "CodeOverrides": [
-            "22: : true",
-            "0: : true"
-          ]
-        },
-        "DevCode6": {
-          "CodeName": "33582:",
-          "CodeOverrides": [
-            "0: : true",
-            "2: : true",
-            "1: : true"
-          ]
-        },
-        "DevCode7": {
-          "CodeName": "27506:",
-          "CodeOverrides": [
-            "15: : true",
-            "14: : true",
-            "13: : true",
-            "10: : true",
-            "4: : true",
-            "2: : true",
-            "12: : true",
-            "8: : true",
-            "20: : true",
-            "11: : true"
-          ]
-        },
-        "DevCode8": {
-          "CodeName": "24692:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        },
-        "DevCode9": {
-          "CodeName": "39405:",
-          "CodeOverrides": [
-            "8: : true",
-            "2: : true",
-            "1: : true"
-          ]
-        },
-        "DevCode10": {
-          "CodeName": "28860:",
-          "CodeOverrides": [
-            "8: : true",
-            "4: : true",
-            "3: : true",
-            "9: : true"
-          ]
-        },
-        "DevCode11": {
-          "CodeName": "44758:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        },
-        "DevCode12": {
-          "CodeName": "32207:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        },
-        "DevCode13": {
-          "CodeName": "35544:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        },
-        "DevCode14": {
-          "CodeName": "32372:",
-          "CodeOverrides": [
-            "0: : true"
-          ]
-        },
-        "DevCode15": {
-          "CodeName": "43486:",
-          "CodeOverrides": [
-            "3: : false",
-            "2: : false",
-            "1: : false",
-            "0: : false"
-          ]
-        },
-        "DevCode16": {
-          "CodeName": "24156:",
-          "CodeOverrides": [
-            "14: : true",
-            "12: : true",
-            "10: : true",
-            "8: : true",
-            "7: : true",
-            "5: : true"
-          ]
-        },
-        "DevCode17": {
-          "CodeName": "56088:",
-          "CodeOverrides": [
-            "9: : true",
-            "7: : true",
-            "6: : true",
-            "5: : true",
-            "1: : true",
-            "0: : true",
-            "2: : true",
-            "10: : true",
-            "14: : true",
-            "11: : true",
-            "19: : true",
-            "4: : true",
-            "17: : true",
-            "12: : true",
-            "13: : true",
-            "8: : true",
-            "3: : true"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY31"
-        ]
-      }
-    },
-    "KEY31": {
-      "DevName": {
-        "en": "Enable the old chat interface",
-        "pt": "Habilitar a antiga interface de bate-papo",
-        "es": "Habilitar la antigua interfaz de chat",
-        "tr": "Eski sohbet arayüzünü etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "59139:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode2": {
-          "CodeName": "26235:",
-          "CodeOverrides": [
-            "12: : false",
-            "11: : false",
-            "9: : false",
-            "7: : false",
-            "5: : false",
-            "3: : false",
-            "2: : false",
-            "1: : false",
-            "0: : false",
-            "4: : false",
-            "10: : 1,2,3,4",
-            "6: : 1,3,4,2"
-          ]
-        },
-        "DevCode3": {
-          "CodeName": "26612:",
-          "CodeOverrides": [
-            "15: : false",
-            "14: : false",
-            "13: : false",
-            "12: : false",
-            "11: : false",
-            "10: : false",
-            "9: : false",
-            "8: : false",
-            "7: : false",
-            "6: : false",
-            "5: : false",
-            "4: : false",
-            "1: : false",
-            "0: : false",
-            "16: : 20"
-          ]
-        },
-        "DevCode4": {
-          "CodeName": "26889:",
-          "CodeOverrides": [
-            "8: : false",
-            "7: : false",
-            "4: : false",
-            "2: : false",
-            "1: : false",
-            "6: : false"
-          ]
-        },
-        "DevCode5": {
-          "CodeName": "34422:",
-          "CodeOverrides": [
-            "22: : false",
-            "0: : false"
-          ]
-        },
-        "DevCode6": {
-          "CodeName": "33582:",
-          "CodeOverrides": [
-            "0: : false",
-            "2: : false",
-            "1: : false"
-          ]
-        },
-        "DevCode7": {
-          "CodeName": "27506:",
-          "CodeOverrides": [
-            "15: : false",
-            "14: : false",
-            "13: : false",
-            "10: : false",
-            "4: : false",
-            "2: : false",
-            "12: : false",
-            "8: : false",
-            "20: : false",
-            "11: : false"
-          ]
-        },
-        "DevCode8": {
-          "CodeName": "24692:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode9": {
-          "CodeName": "39405:",
-          "CodeOverrides": [
-            "8: : false",
-            "2: : false",
-            "1: : false"
-          ]
-        },
-        "DevCode10": {
-          "CodeName": "28860:",
-          "CodeOverrides": [
-            "8: : false",
-            "4: : false",
-            "3: : false",
-            "9: : false"
-          ]
-        },
-        "DevCode11": {
-          "CodeName": "44758:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode12": {
-          "CodeName": "32207:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode13": {
-          "CodeName": "35544:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode14": {
-          "CodeName": "32372:",
-          "CodeOverrides": [
-            "0: : false"
-          ]
-        },
-        "DevCode15": {
-          "CodeName": "43486:",
-          "CodeOverrides": [
-            "3: : false",
-            "2: : false",
-            "1: : false",
-            "0: : false"
-          ]
-        },
-        "DevCode16": {
-          "CodeName": "24156:",
-          "CodeOverrides": [
-            "14: : false",
-            "12: : false",
-            "10: : false",
-            "8: : false",
-            "7: : false",
-            "5: : false"
-          ]
-        },
-        "DevCode17": {
-          "CodeName": "56088:",
-          "CodeOverrides": [
-            "9: : false",
-            "7: : false",
-            "6: : false",
-            "5: : false",
-            "1: : false",
-            "0: : false",
-            "2: : false",
-            "10: : false",
-            "14: : false",
-            "11: : false",
-            "19: : false",
-            "4: : false",
-            "17: : false",
-            "12: : false",
-            "13: : false",
-            "8: : false",
-            "3: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": [
-          "KEY30"
-        ]
-      }
-    },
-    "KEY32": {
-      "DevName": {
-        "en": "If the app crashes when opening chats, enable this option",
-        "pt": "Se o aplicativo travar ao abrir bate-papos, habilite esta opção",
-        "es": "Si la aplicación se bloquea al abrir chats, habilite esta opción",
-        "tr": "DM sohbetlerini açarken uygulama çöküyorsa bu seçeneği etkinleştir"
-      },
-      "DevCodes": {
-        "DevCode1": {
-          "CodeName": "50983:",
-          "CodeOverrides": [
-            "3: : true",
-            "2: : true",
-            "4: : true",
-            "5: : true",
-            "8: : false",
-            "0: : false",
-            "7: : false",
-            "1: : false",
-            "6: : false"
-          ]
-        }
-      },
-      "DevDetail": {
-        "bold": false,
-        "italic": false,
-        "strikethrough": false,
-        "crtcl": false,
-        "disabled": false,
-        "rcmnd": false,
-        "DisabledDevs": []
-      }
-    }
-  },
-  "AeroOthers": {
-    "last": "09/14/2023",
-    "aerover": "369210522",
-    "betadev": {
-      "betakey": true,
-      "betaver": "371611230"
-    }
-  }
+   }
 }
