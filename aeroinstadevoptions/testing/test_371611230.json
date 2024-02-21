@@ -119,10 +119,10 @@
       },
       "AeroTab9": {
          "AeroTabName": {
-            "en": "Trash",
-            "pt": "Lixo",
-            "es": "Basura",
-            "tr": "Çöp"
+            "en": "Trash (these options may not work on some devices)",
+            "pt": "Lixo (essas opções podem não funcionar em alguns dispositivos)",
+            "es": "Basura (estas opciones pueden no funcionar en algunos dispositivos)",
+            "tr": "Çöp (bu seçenekler bazı cihazlarda çalışmayabilir)"
          },
          "AeroMoji": "🗑️",
          "AeroTabKeys": [
@@ -1740,7 +1740,7 @@
                   "17: : true",
                   "3: : true",
                   "8: : true",
-                  "1: : true",
+                  "1: : false",
                   "7: : true",
                   "0: : true",
                   "2: : 1"
@@ -1761,7 +1761,7 @@
       }
    },
    "AeroOthers": {
-      "last": "02/17/2024",
+      "last": "02/21/2024",
       "aerover": "369210522",
       "betadev": {
          "betakey": true,
