@@ -51,7 +51,9 @@
          "AeroMoji": "💬",
          "AeroTabKeys": [
             "KEY30",
-            "KEY31"
+            "KEY31",
+            "KEY15",
+            "KEY16"
          ]
       },
       "AeroTab5": {
@@ -116,57 +118,9 @@
             "KEY20",
             "KEY32"
          ]
-      },
-      "AeroTab9": {
-         "AeroTabName": {
-            "en": "Trash (these options may not work on some devices)",
-            "pt": "Lixo (essas opções podem não funcionar em alguns dispositivos)",
-            "es": "Basura (estas opciones pueden no funcionar en algunos dispositivos)",
-            "tr": "Çöp (bu seçenekler bazı cihazlarda çalışmayabilir)"
-         },
-         "AeroMoji": "🗑️",
-         "AeroTabKeys": [
-            "KEY1",
-            "KEY6",
-            "KEY23",
-            "KEY17",
-            "KEY15",
-            "KEY16",
-            "KEY19",
-            "KEY28"
-         ]
       }
    },
    "AERODEVS": {
-      "KEY1": {
-         "DevName": {
-            "en": "Enable the fast forward and rewind feature for the Reels videos",
-            "pt": "Ative a função de avanço rápido e retrocesso para os vídeos Reels",
-            "es": "Habilita la función de avance rápido y retroceso para los videos de Reels",
-            "tr": "Reels videoları için hızlı ileri ve geri sarma özelliğini etkinleştir"
-         },
-         "DevCodes": {
-            "DevCode1": {
-               "CodeName": "55196:",
-               "CodeOverrides": [
-                  "10: : true",
-                  "9: : true",
-                  "12: : true"
-               ]
-            }
-         },
-         "DevDetail": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "crtcl": false,
-            "disabled": false,
-            "rcmnd": false,
-            "DisabledDevs": [
-               "KEY2"
-            ]
-         }
-      },
       "KEY2": {
          "DevName": {
             "en": "Enable the fast forward and rewind feature for the Reels videos",
@@ -293,31 +247,6 @@
             "DisabledDevs": [
                "KEY4"
             ]
-         }
-      },
-      "KEY6": {
-         "DevName": {
-            "en": "Enable the ability to break to a new line while typing comments",
-            "pt": "Habilite a capacidade de quebrar para uma nova linha ao digitar comentários",
-            "es": "Habilite la capacidad de saltar a una nueva línea mientras escribe comentarios",
-            "tr": "Yorum yazarken yeni bir satıra geçme yeteneğini etkinleştir"
-         },
-         "DevCodes": {
-            "DevCode1": {
-               "CodeName": "59926:",
-               "CodeOverrides": [
-                  "0: : true"
-               ]
-            }
-         },
-         "DevDetail": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "crtcl": false,
-            "disabled": false,
-            "rcmnd": false,
-            "DisabledDevs": []
          }
       },
       "KEY7": {
@@ -696,32 +625,6 @@
             "DisabledDevs": []
          }
       },
-      "KEY17": {
-         "DevName": {
-            "en": "Enable the quick scroll to bottom button in messages",
-            "pt": "Ative o botão de rolagem rápida para baixo nas mensagens",
-            "es": "Active el botón de desplazamiento rápido hacia abajo en los mensajes",
-            "tr": "Mesajlarda aşağı doğru hızlı kaydırma düğmesini etkinleştir"
-         },
-         "DevCodes": {
-            "DevCode1": {
-               "CodeName": "49312:",
-               "CodeOverrides": [
-                  "0: : true",
-                  "1: : true"
-               ]
-            }
-         },
-         "DevDetail": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "crtcl": false,
-            "disabled": false,
-            "rcmnd": false,
-            "DisabledDevs": []
-         }
-      },
       "KEY18": {
          "DevName": {
             "en": "Remove \"Follow\" button in Reels",
@@ -734,31 +637,6 @@
                "CodeName": "52814:",
                "CodeOverrides": [
                   "12: : true"
-               ]
-            }
-         },
-         "DevDetail": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "crtcl": false,
-            "disabled": false,
-            "rcmnd": false,
-            "DisabledDevs": []
-         }
-      },
-      "KEY19": {
-         "DevName": {
-            "en": "Show the Reels caption in the comment section",
-            "pt": "Mostre a legenda do Reels na seção de comentários",
-            "es": "Muestre la leyenda de Reels en la sección de comentarios",
-            "tr": "Reels'in açıklamasını/başlığını yorumlar bölümünde göster"
-         },
-         "DevCodes": {
-            "DevCode1": {
-               "CodeName": "59170:",
-               "CodeOverrides": [
-                  "0: : false"
                ]
             }
          },
@@ -850,31 +728,6 @@
             "DisabledDevs": [
                "KEY21"
             ]
-         }
-      },
-      "KEY23": {
-         "DevName": {
-            "en": "Enable the ability to pin highlighted stories",
-            "pt": "Habilite a capacidade de fixar histórias destacadas",
-            "es": "Habilite la capacidad de fijar historias destacadas",
-            "tr": "Öne çıkarılan hikayeleri sabitleme yeteneğini etkinleştir"
-         },
-         "DevCodes": {
-            "DevCode1": {
-               "CodeName": "27176:",
-               "CodeOverrides": [
-                  "0: : true"
-               ]
-            }
-         },
-         "DevDetail": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "crtcl": false,
-            "disabled": false,
-            "rcmnd": false,
-            "DisabledDevs": []
          }
       },
       "KEY24": {
@@ -985,34 +838,6 @@
             "rcmnd": false,
             "DisabledDevs": [
                "KEY28"
-            ]
-         }
-      },
-      "KEY28": {
-         "DevName": {
-            "en": "Remove the \"Create\" button from the story screen",
-            "pt": "Remova o botão \"Criar\" da tela da história",
-            "es": "Elimina el botón \"Crear\" de la pantalla de la historia",
-            "tr": "Hikaye ekranından \"Oluştur\" düğmesini kaldır"
-         },
-         "DevCodes": {
-            "DevCode1": {
-               "CodeName": "50790:",
-               "CodeOverrides": [
-                  "1: : false",
-                  "0: : false"
-               ]
-            }
-         },
-         "DevDetail": {
-            "bold": false,
-            "italic": false,
-            "strikethrough": false,
-            "crtcl": false,
-            "disabled": false,
-            "rcmnd": false,
-            "DisabledDevs": [
-               "KEY27"
             ]
          }
       },
