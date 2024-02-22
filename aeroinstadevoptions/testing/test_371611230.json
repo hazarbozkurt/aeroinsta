@@ -28,7 +28,8 @@
             "KEY13",
             "KEY14",
             "KEY34",
-            "KEY38"
+            "KEY38",
+            "KEY1"
          ]
       },
       "AeroTab3": {
@@ -121,6 +122,31 @@
       }
    },
    "AERODEVS": {
+      "KEY1": {
+         "DevName": {
+            "en": "Disable the cube animation for the story transition",
+            "pt": "Desative a animação de cubo para a transição da história/story",
+            "es": "Deshabilitar la animación de cubo para la transición de la historia/story",
+            "tr": "Hikaye geçişinde küp animasyonunu devre dışı bırak"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "64042:",
+               "CodeOverrides": [
+                  "2: : true"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": []
+         }
+      },
       "KEY2": {
          "DevName": {
             "en": "Enable the fast forward and rewind feature for the Reels videos",
