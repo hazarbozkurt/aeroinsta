@@ -194,7 +194,7 @@
             "strikethrough":false,
             "crtcl":false,
             "disabled":false,
-            "rcmnd":false,
+            "rcmnd":true,
             "DisabledDevs":[
                
             ]
@@ -1627,7 +1627,7 @@
             }
          },
          "DevDetail":{
-            "bold":false,
+            "bold":true,
             "italic":false,
             "strikethrough":false,
             "crtcl":false,
