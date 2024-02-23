@@ -71,7 +71,8 @@
             "KEY29",
             "KEY37",
             "KEY19",
-            "KEY28"
+            "KEY28",
+            "KEY42"
          ]
       },
       "AeroTab6": {
@@ -708,10 +709,10 @@
       },
       "KEY19": {
          "DevName": {
-            "en": "Show the audio on/off button at the bottom of the Reels screen",
-            "pt": "Mostrar o botão de áudio ligado/desligado na parte inferior da tela de Reels",
-            "es": "Mostrar el botón de audio activo/inactivo en la parte inferior de la pantalla de Reels",
-            "tr": "Reels ekranının altında ses açma/kapama düğmesini göster"
+            "en": "Show the audio on/off button at the bottom of the Reels screen (1)",
+            "pt": "Mostrar o botão de áudio ligado/desligado na parte inferior da tela de Reels (1)",
+            "es": "Mostrar el botón de audio activo/inactivo en la parte inferior de la pantalla de Reels (1)",
+            "tr": "Reels ekranının alt kısmında ses açma/kapama düğmesini göster (1)"
          },
          "DevCodes": {
             "DevCode1": {
@@ -730,7 +731,8 @@
             "disabled": false,
             "rcmnd": false,
             "DisabledDevs": [
-               "KEY28"
+               "KEY28",
+               "KEY42"
             ]
          }
       },
@@ -934,7 +936,7 @@
          },
          "DevCodes": {
             "DevCode1": {
-               "CodeName": "50790:",
+               "CodeName": "64066:",
                "CodeOverrides": [
                   "1: : true",
                   "0: : true"
@@ -949,7 +951,8 @@
             "disabled": false,
             "rcmnd": false,
             "DisabledDevs": [
-               "KEY19"
+               "KEY19",
+               "KEY42"
             ]
          }
       },
@@ -1695,10 +1698,39 @@
                "KEY40"
             ]
          }
+      },
+      "KEY42": {
+         "DevName": {
+            "en": "Show the audio on/off button at the bottom of the Reels screen (2)",
+            "pt": "Mostrar o botão de áudio ligado/desligado na parte inferior da tela de Reels (2)",
+            "es": "Mostrar el botón de audio activo/inactivo en la parte inferior de la pantalla de Reels (2)",
+            "tr": "Reels ekranının alt kısmında ses açma/kapama düğmesini göster (2)"
+         },
+         "DevCodes": {
+            "DevCode1": {
+               "CodeName": "64066:",
+               "CodeOverrides": [
+                  "2: : true",
+                  "0: : true"
+               ]
+            }
+         },
+         "DevDetail": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "crtcl": false,
+            "disabled": false,
+            "rcmnd": false,
+            "DisabledDevs": [
+               "KEY28",
+               "KEY19"
+            ]
+         }
       }
    },
    "AeroOthers": {
-      "last": "02/21/2024",
+      "last": "02/23/2024",
       "aerover": "369210522",
       "betadev": {
          "betakey": true,
